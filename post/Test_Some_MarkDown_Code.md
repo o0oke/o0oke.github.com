@@ -7,6 +7,8 @@ Test on Some MarkDown code
 
 ![Alt text](http://evel.cn/tool/code/dahai.jpg "Optional title")
 
+* A video link from vimeo.com
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 ```html
     <div>Syntax Highlighting</div>
@@ -36,6 +38,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
+
+Here is one example for the Youtube video
+=======
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" allowfullscreen></iframe>
 
 GitHub Flavored Markdown
 ================================
