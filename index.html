@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>code.evel.cn</title>
-	<script type="text/javascript" src="/javascripts/jquery.js"></script>
+	<script type="text/javascript" src="javascripts/jquery.js"></script>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width">
@@ -12,70 +12,67 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	
-	<script type="text/javascript">
+	<script type="text/javascript">    
 	$(document).ready(function(){
-		//alert(document.getElementById(''))
-		$("#Markdown_Syntax_Guide").click(function(){
-			htmlobj=$.ajax({url:"./post/Markdown_Syntax_Guide.md",async:false});
-			var converter = new showdown.Converter();
-			var text = htmlobj.responseText; 
-			var html = converter.makeHtml(text);
-			//alert(html);
-			$("#article").html(html);
-		});
-		$("#Test_Some_MarkDown_Code").click(function(){
-			htmlobj=$.ajax({url:"./post/Test_Some_MarkDown_Code.md",async:false});
-			var converter = new showdown.Converter();
-			var text = htmlobj.responseText; 
-			var html = converter.makeHtml(text);
-			//alert(html);
-			$("#article").html(html);
-		});
+    
+        //Get from the init folder for welcome or something you want show to user in home page
+        $("#showarticle").html("This is a initialized content");   
+        
+        //begins to update left list of the articles
+        //can read from a single js file for article list array only.
+        //ToDo: Dynamic update according to the *.md file list under post folder.
+        
+		var table1 = document.getElementById('artlist');
+        var title=
+        [
+            "Markdown_Syntax_Guide", 
+            "Test_Some_MarkDown_Code",
+        ];
+        var ahtml_list = "";
+        for( n=0; n<title.length;n++ )
+        {
+            ahtml_list += "<a id=\""+title[n]+"\" href=\"#"+title[n]+"\">"+title[n]+"</a><br>";
+        }
+        $("#artlist").html(ahtml_list);
+        
+        //by now. all the artical and links ready, begin to enable click and show MD files.
+        
+        var linklist = table1.getElementsByTagName('a');
+        for (i=0; i<linklist.length; i++) {
+            var sarticle = linklist[i].id;
+            $("#"+sarticle).click(function(){
+                htmlobj=$.ajax({url:"post/"+this.id+".md",async:false});
+                var converter = new showdown.Converter();
+                var text = htmlobj.responseText; 
+                var html = converter.makeHtml(text);
+                $("#showarticle").html(html);
+                }
+            );
+        }
 	});
-</script>
-	
+    </script>
+
   </head>
   <body>
- 
     <div class="wrapper">
       <header>
         <h1>Notes</h1>
-        <p>Some notes from Evel.cn</p>
-        <p class="view"><a href="http://github.com/o0oke/o0oke.github.com">View the Project on GitHub <small>code.evel.cn</small></a></p>
-        <ul>
+		<ul>
           <li><a href="https://github.com/o0oke/o0oke.github.com/zipball/master">Download <strong>ZIP File</strong></a></li>
           <li><a href="https://github.com/o0oke/o0oke.github.com/master">Download <strong>TAR Ball</strong></a></li>
           <li><a href="http://github.com/o0oke/o0oke.github.com">Fork On <strong>GitHub</strong></a></li>
         </ul>
-		<!--
-		<a href="#a1">A bit of the GitHub spice</a><br>
-		<a href="#a2">Math is hard, let's go shopping</a><br>
-		<a href="#a3">We all like making lists</a><br>
-		<a href="#a4">I am a robot</a><br>
-		<a href="#a5">Set in stone</a><br>
-		<a href="#a6">Playing the blame game</a><br>
-		<a href="#a7">Table for two</a><br>
-		<a href="#a8">Crazy linking action</a><br>
-		<a href="#n1">Note1</a><br>
-		-->
-		<a id="Markdown_Syntax_Guide" href="#Markdown_Syntax_Guide">Markdown Syntax Guide</a><br>
-		<a id="Test_Some_MarkDown_Code" href="#Test_Some_MarkDown_Code">Test Some MarkDown Code</a>
+        <div id="artlist">
+        </div>
       </header>
-      
-	  
-	  
-	  
-	  <section id="article">
-		-->return <a href="http://evel.cn"> home </a>page
+	  <section id="showarticle">
 	  </section>
 	  
       <footer>
-        <p>This project is maintained by <a href="http://github.com/o0oke/o0oke.github.com">Evel Liu</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>This project is maintained by <a href="http://github.com/o0oke/o0oke.github.com">Evel Liu</a></small></p>
       </footer>
     </div>  
-	 <script src="javascripts/scale.fix.js"></script>
+	<script src="javascripts/scale.fix.js"></script>
 	<script src="javascripts/showdown.min.js"></script>
-	
   </body>
 </html>
