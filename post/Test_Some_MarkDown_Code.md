@@ -7,8 +7,6 @@ Test on Some MarkDown code
 
 ![Alt text](http://evel.cn/tool/code/dahai.jpg "Optional title")
 
-* A video link from vimeo.com
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 ```html
     <div>Syntax Highlighting</div>
@@ -31,6 +29,8 @@ Test on Some MarkDown code
     print s
 ```
 
+## A video link from vimeo.com
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 ## Chapter 2
 
