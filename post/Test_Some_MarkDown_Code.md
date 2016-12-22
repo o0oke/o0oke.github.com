@@ -39,10 +39,6 @@ aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volup
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
 
-Here is one example for the Youtube video
-=======
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" allowfullscreen></iframe>
-
 GitHub Flavored Markdown
 ================================
 
