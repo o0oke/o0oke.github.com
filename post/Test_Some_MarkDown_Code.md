@@ -32,6 +32,10 @@ Test on Some MarkDown code
 ## A video link from vimeo.com
 [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
+## Video demo from youku
+
+<iframe height=100% width=100% src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+
 ## Chapter 2
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -55,10 +59,6 @@ Roses are red
 Violets are blue
 
 Oh, and one thing I cannot stand is the mangling of words with multiple underscores in them like perform_complicated_task or do_this_and_do_that_and_another_thing.
-
-Video demo from youku
-================================
-<iframe height=100% width=100% src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
 
 A bit of the GitHub spice
 -------------------------
