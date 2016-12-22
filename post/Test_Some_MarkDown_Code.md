@@ -34,7 +34,7 @@ Test on Some MarkDown code
 
 ## Video demo from youku
 
-<iframe height=100% width=100% src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=100% width=100% src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 ></iframe>
 
 ## Chapter 2
 
