@@ -12,8 +12,19 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	
-	<script type="text/javascript">    
-	$(document).ready(function(){
+   <script type="text/javascript">    
+   $(document).ready(function(){
+    
+   $.ajax({
+    url: "./post/",
+    type: "get",
+    dataType: "html",
+    success: function(data) {
+      //do something with data
+      console.log(data);
+    }
+  });
+	   
     //Get from the init folder for welcome or something you want show to user in index page
     LoadDMFile('index');
     
