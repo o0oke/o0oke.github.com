@@ -1,82 +1,35 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>code.evel.cn</title>
-	<script type="text/javascript" src="javascripts/jquery.js"></script>
+	  <script type="text/javascript" src="javascripts/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="javascripts/index.js"></script>
+  	<script type="text/javascript" src="javascripts/scale.fix.js"></script>
+	  <script type="text/javascript" src="javascripts/showdown.min.js"></script>
+    <script type="text/javascript" src="javascripts/comment.js"></script>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-	
-   <script type="text/javascript">    
-   $(document).ready(function(){
-   
-    //Get from the init folder for welcome or something you want show to user in index page
-    LoadDMFile('index');
-    
-    //begins to update left list of the articles
-    //can read from a single js file for article list array only.
-    //ToDo: Dynamic update according to the *.md file list under post folder.
-    
-    var table1 = document.getElementById('artlist');
-    var title=
-    [
-        "Test_Some_MarkDown_Code",
-    ];
-    var ahtml_list = "";
-    for( n=0; n<title.length;n++ )
-    {
-        ahtml_list += "<a id=\""+title[n]+"\" href=\"#"+title[n]+"\">"+title[n]+"</a><br>";
-    }
-    $("#artlist").html(ahtml_list);
-    
-    //by now. all the artical and links ready, begin to enable click and show MD files.
-    var linklist = table1.getElementsByTagName('a');
-    for (i=0; i<linklist.length; i++) {
-        var sarticle = linklist[i].id;
-        $("#"+sarticle).click(function(){
-          LoadDMFile(this.id); 
-          }
-        );
-    }
-	});
-  
-  function LoadDMFile(sName){
-    htmlobj=$.ajax({url:"post/"+sName+".md",async:false});
-    var converter = new showdown.Converter();
-    var text = htmlobj.responseText; 
-    var html = converter.makeHtml(text);
-    $("#showarticle").html(html);
-    $('html, body').animate({ scrollTop: 0 }, 'fast');
-  }
-  
-  </script>
-
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="index.html"><font color='black'>Note</font></a></h1>
         <ul>
-          <li><a href="#About">something<strong>About</strong></a></li>
-          <li><a href="#gallery">collection<strong>Gallery</strong></a></li>
-          <li><a href="http://github.com/o0oke/o0oke.github.com">Fork On <strong>GitHub</strong></a></li>
+          <li><a id="article" href="#article">blog<strong>Collection</strong></a></li>
+          <li><a id="gallery" href="#gallery">personal<strong>Gallery</strong></a></li>
+          <li><a id="about" href="#about">something<strong>About</strong></a></li>
         </ul>
         <div id="artlist">
+        
         </div>
       </header>
 	  <section id="showarticle">
 	  </section>
-	  
       <footer>
-        <p><small>This project is maintained by <a href="http://github.com/o0oke/o0oke.github.com">Evel Liu</a></small></p>
+        <p><small>This project is maintained by <a id="review" href="index.html" data-uv-trigger data-uv-key="#review">Evel Liu</a></small></p>
       </footer>
-    </div> 
-	<script src="javascripts/scale.fix.js"></script>
-	<script src="javascripts/showdown.min.js"></script>
+    </div>
   </body>
 </html>
