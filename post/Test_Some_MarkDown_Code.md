@@ -13,11 +13,12 @@ Test on Some MarkDown code
 ```css
     body{font-size:12px}
 ```
- 
+
 ```javascript
     var s = "JavaScript syntax highlighting";
     alert(s);
 ```
+
 ```php
     <?php
       echo "hello, world!";
@@ -28,11 +29,17 @@ Test on Some MarkDown code
     print s
 ```
 
-## A video link from vimeo.com
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+## Second video link from vimeo.com
+<iframe src="//player.vimeo.com/video/38514156" width="500" height="315" frameborder="0" allowfullscreen></iframe>
 
 ## A video from youku
-<iframe height=100% width=100% src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+<iframe width="500" height="315" src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+
+## A video from youtube
+<iframe width="500" height="315" src="//www.youtube.com/embed/jofNR_WkoCE" allowfullscreen></iframe>
+
+## A video from qq video
+<iframe width="500" height="315" frameborder=0 src="http://v.qq.com/iframe/player.html?vid=d0015bg8v6k&tiny=0&auto=0" allowfullscreen=""></iframe>
 
 ## Chapter 2
 
