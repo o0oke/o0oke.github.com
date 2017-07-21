@@ -19,8 +19,8 @@ $(document).ready(function(){
     var title=
     [
         "Test Some MarkDown Code",
-        "Some Code For Check",
-        "Early Childhood Education",
+        //"Some Code For Check",
+        //"Early Childhood Education",
     ];
     var ahtml_list = "";
     
