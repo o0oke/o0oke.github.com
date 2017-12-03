@@ -6,7 +6,7 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 
 # Demo
 
-http://code.evel.cn
+http://www.o0oe.com
 
 # License
 
@@ -14,4 +14,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 ---
 
-Evel Liu
+Evel
