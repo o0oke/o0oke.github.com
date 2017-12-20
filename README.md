@@ -6,7 +6,7 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 
 # Demo
 
-http://www.o0oe.com
+http://o0oe.com
 
 # License
 
