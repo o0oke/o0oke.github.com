@@ -1,23 +1,8 @@
 About this page
 =====================
 
-一个无数据库的个人站点。
-
-Code Spans
-==========
-
-
-You can make inline `<code>` tags by using code spans.  Use backticks to make a code span:
-
- Press the `<Tab>` key, then type a `$`.
-
-(The backtick key is in the upper left corner of most keyboards.)
-
-Like code blocks, code spans will be displayed in a monospaced typeface.  Markdown and HTML will not work within them:
-
- Markdown italicizes things like this: `I *love* it.`
-
- Don't use the `<font>` tag; use CSS instead.
+一个基于Github page空间的简易发布平台。
+特点是简单直接，无需购买数据库，应用js+markdown语法，用于管理和发布一些简单文字，图片，视频等。
  
 
 Fork on this web system in github
