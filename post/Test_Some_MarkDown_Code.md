@@ -33,13 +33,13 @@ Test on Some MarkDown code
 <iframe src="//player.vimeo.com/video/38514156" width="500" height="315" frameborder="0" allowfullscreen></iframe>
 
 ## A video from youku
-<iframe width="500" height="315" src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+<iframe width="468" height="315" src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
 
 ## A video from youtube
-<iframe width="500" height="315" src="//www.youtube.com/embed/jofNR_WkoCE" allowfullscreen></iframe>
+<iframe width="468" height="315" src="//www.youtube.com/embed/jofNR_WkoCE" allowfullscreen></iframe>
 
 ## A video from qq video
-<iframe width="500" height="315" frameborder=0 src="http://v.qq.com/iframe/player.html?vid=d0015bg8v6k&tiny=0&auto=0" allowfullscreen=""></iframe>
+<iframe width="468" height="315" frameborder=0 src="http://v.qq.com/iframe/player.html?vid=d0015bg8v6k&tiny=0&auto=0" allowfullscreen=""></iframe>
 
 ## Chapter 2
 
