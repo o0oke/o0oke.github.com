@@ -53,7 +53,7 @@ GitHub Flavored Markdown
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
 
-See my [Linux note](./upload/note.txt) page for some linux notes. 
+See my [Linux note](#/upload/note.txt) page for some linux notes. 
 
 
 Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:
