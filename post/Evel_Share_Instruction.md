@@ -6,33 +6,32 @@ Welcome to Evel's personal sharing page.
 
 ## Chapter 1
 
-I make some personal videos when I am free.
+I collect & make some videos when I am free.
 
 * THE CONTINENT
 <iframe width="442" height="315" src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
 
-
+<br>
 * A video when I worked in Wistron, Zhongshan City, 2006
 <iframe width="442" height="315" src='http://player.youku.com/embed/XMjQzODkyOA' frameborder=0 'allowfullscreen'></iframe>
 
-
+<br>
 * A fishing video when I worked in Wistron, Keelung City，Taiwan. 2009
 <iframe width="442" height="315" src='http://player.youku.com/embed/XMjM0Mzg0ODUy' frameborder=0 'allowfullscreen'></iframe>
 
-
+<br>
 * The rock&roll version of Cannon which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
 <iframe width="442" height="315" src='http://player.youku.com/embed/XMjMxNzU0MTk2' frameborder=0 'allowfullscreen'></iframe>
 
-
+<br>
 * The annual dinner & party video when I worked in NVIDIA, Shenzhen, 2013.
 <iframe width="442" height="315" src='http://player.youku.com/embed/XNTA1MjU2MTk2' frameborder=0 'allowfullscreen'></iframe>
 
-
+<br>
 
 ## Chapter 2
 
 Learnning and do some summary for the personal development. 
-
 
 Others
 -------------------------
