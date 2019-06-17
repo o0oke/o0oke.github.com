@@ -9,23 +9,23 @@ Welcome to Evel's personal sharing page.
 I collect & make some videos when I am free.
 
 * THE CONTINENT
-<iframe width="442" height="315" src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
+<iframe src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
 
 <br>
 * A video when I worked in Wistron, Zhongshan City, 2006
-<iframe width="442" height="315" src='http://player.youku.com/embed/XMjQzODkyOA' frameborder=0 'allowfullscreen'></iframe>
+<iframe src='http://player.youku.com/embed/XMjQzODkyOA' frameborder=0 'allowfullscreen'></iframe>
 
 <br>
 * A fishing video when I worked in Wistron, Keelung City，Taiwan. 2009
-<iframe width="442" height="315" src='http://player.youku.com/embed/XMjM0Mzg0ODUy' frameborder=0 'allowfullscreen'></iframe>
+<iframe src='http://player.youku.com/embed/XMjM0Mzg0ODUy' frameborder=0 'allowfullscreen'></iframe>
 
 <br>
 * The rock&roll version of Cannon which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
-<iframe width="442" height="315" src='http://player.youku.com/embed/XMjMxNzU0MTk2' frameborder=0 'allowfullscreen'></iframe>
+<iframe src='http://player.youku.com/embed/XMjMxNzU0MTk2' frameborder=0 'allowfullscreen'></iframe>
 
 <br>
 * The annual dinner & party video when I worked in NVIDIA, Shenzhen, 2013.
-<iframe width="442" height="315" src='http://player.youku.com/embed/XNTA1MjU2MTk2' frameborder=0 'allowfullscreen'></iframe>
+<iframe src='http://player.youku.com/embed/XNTA1MjU2MTk2' frameborder=0 'allowfullscreen'></iframe>
 
 <br>
 
@@ -39,5 +39,5 @@ Others
 In addition to the previous section, here are some contact references:
 
 * This page, I setup a messager which can got the message from web.
-* U.S number +1 5708800119
-* I have one weibo, just 'Evel' but I haven't used it for a long time since we using Wechat. :(
+* Google Voice number +1 5708800119
+* I have one weibo, just called 'Evel' but I haven't used it for a long time since we using Wechat. :(
