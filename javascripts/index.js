@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
     var title=
     [
-        "Evel Share Instruction",
+        "Share Page",
         //"Some Code For Check",
         //"Early Childhood Education",
     ];
