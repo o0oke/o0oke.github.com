@@ -1,8 +1,7 @@
 Welcome to my's personal sharing page.
 ================================
-* I have one idea of make a moments pages of my work experience. so here is the page to share with you.
-* Now I worked in institute of Songshan lake, Huawei 2012 Laboratory. Maybe someday I will share more lastest wonderful with you. :)
-* I make some local development and make some tools for EDA & Linux automation. maybe I can share some of them in every now and again.
+* I have one idea of making a moments pages of personal experience. so here is the page for sharing.
+* Now I worked in institute of Songshan lake, Huawei 2012 Laboratory.
 
 ## Chapter 1 - Some Videos
 
@@ -38,6 +37,6 @@ Learnning and do some summary for the personal development. I always use the ngr
 
 Here are some contact references in addition to the previous section.
 
-* This page, I setup a messager which can got the message from web.
+* I setup a messager which can got the message from index page of this side.
 * Google Voice number +1 5708800119, maybe you can leave a message firstly
 * I have one weibo, just called 'Evel' but I haven't used it for a long time since we using Wechat. :(
