@@ -1,7 +1,6 @@
-Welcome to my's personal sharing page.
+Welcome to my personal share page.
 ================================
 * I have one idea of making a moments pages of personal experience. so here is the page for sharing.
-* Now I worked in institute of Songshan lake, Huawei 2012 Laboratory.
 
 ## Chapter 1 - Some Videos
 
@@ -31,6 +30,7 @@ I collect & make some videos when I am free.
 ## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro.
 
 Learnning and do some summary for the personal development. I always use the ngrok to setup a free host for it. to test some development on the page of notes
+And I also setup a PC which is install UOS v20 for powerful usage for personal research.
 
 ## Chapter 3 - Others
 -------------------------
