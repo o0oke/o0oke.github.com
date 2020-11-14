@@ -1,19 +1,13 @@
 About
-
-[========]
+========
 
 This is a personal website matained by Github, all notes wrote by martdown and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>
 Here's an link to [Markdown Online editor](http://www.mdeditor.com/).
-
-
-[========]
 
 * [1.Markdown语言](#n1)
 * [2.Spck编辑器](#n2)
 * [软件简介](#n2.1)
 * [Spck编辑器APP特色](#n2.1)
-
-[========]
 
 <h2 id="n1">Markdown语言</h2>
 **Markdown是一种轻量级的「标记语言」**
@@ -236,7 +230,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 18&ordm;C  &quot;  &apos;
 
-[========]
+
 
 ### Emoji表情 :smiley:
 
@@ -256,7 +250,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 \*literal asterisks\*
 
-[========]
+
 ### 科学公式 TeX(KaTeX)
 
 $$E=mc^2$$
@@ -298,7 +292,7 @@ f(x) = \int_{-\infty}^\infty
 
 > Print Test: Ctrl + P
 
-[========]
+
 
 ### 绘制流程图 Flowchart
 
@@ -312,7 +306,7 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
-[========]
+
 
 ### 绘制序列图 Sequence Diagram
 
@@ -326,12 +320,12 @@ Andrew->>China: I am good thanks!
 
 <h2 id="n2">Spck编辑器</h2>
 
-[========]
+
 
 <h3 id="n2.1">软件简介</h3>
 SPck编辑器是一款简洁干净的代码编辑小工具应用，小巧但是功能相当的不错而且也很好用，虽然目前上传在Android 4.4设备上会无效，但是还是不能否它的实用性，拥有管理多个项目的功能，而且编辑的速度快，支持将项目导出到ZIP的文件，同时也可以选择从zip的文件导入项目等多种操作，离线也是也可以工具的，支持的语言也比较的多，喜欢的可以自己来试试。
 
-[========]
+
 
 <h3 id="n2.2">Spck编辑器APP特色</h3>
 1、安装包小，而且可以进行随时的编辑，支持离线工作模式，支持 JavaSCRIPT、TypeSCRIPT、以及Less等多种的语言，而且还支持其他的流行语言；
