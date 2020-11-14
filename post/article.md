@@ -38,8 +38,8 @@ borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ cd ..
 [evel@evel-arch firefox]$ ls
 borderify  borderify.zip
-===================
 
+===================
 查询历史命令：
 history | grep pacman
 
@@ -57,7 +57,8 @@ web：
 5, 评论框固定方案
 
 You can use profiled systemd units to start/stop shadowsocks: (Profiles are placed under /etc/shadowsocks/*.json)
-# systemctl start/stop shadowsocks[-server]@<conf-name>
+systemctl start/stop shadowsocks[-server]@<conf-name>
+
 ============
 查找文件目录等
 tree -f | grep pdf
@@ -65,6 +66,7 @@ tree -f -h -D -c | grep -E pdf$
 一下-C仅仅针对Linux盘下文件其起作用
 [evel@evel-arch ~]$ tree -f -h -D -C | grep 学习
 │   ├── [3.0M Jun 29  2017]  ./Document/603. 面向移动计算的深度学习-程健.pdf
+
 ===========
 VIM：
 zf创建折叠， 代码折叠 zm 折叠所有，zo展开一个折叠，zj/zk跳到下/上一个折叠
