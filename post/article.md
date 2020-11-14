@@ -1,4 +1,5 @@
 Note records
+
 =====================
 
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).
@@ -26,6 +27,7 @@ rmmod pcspkr--关闭警告声
 modprobe pcspkr-打开
 
 ======ZIP=========
+
 [evel@evel-arch borderify]$ ls
 borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ zip -r -FS ../borderify.zip *
@@ -40,6 +42,7 @@ borderify.js  icons  manifest.json
 borderify  borderify.zip
 
 ===================
+
 查询历史命令：
 history | grep pacman
 
@@ -60,6 +63,7 @@ You can use profiled systemd units to start/stop shadowsocks: (Profiles are plac
 systemctl start/stop shadowsocks[-server]@<conf-name>
 
 ============
+
 查找文件目录等
 tree -f | grep pdf
 tree -f -h -D -c | grep -E pdf$
@@ -68,11 +72,13 @@ tree -f -h -D -c | grep -E pdf$
 │   ├── [3.0M Jun 29  2017]  ./Document/603. 面向移动计算的深度学习-程健.pdf
 
 ===========
+
 VIM：
 zf创建折叠， 代码折叠 zm 折叠所有，zo展开一个折叠，zj/zk跳到下/上一个折叠
 mkview 生成一个文件的view loadview 加载某个文件的view
 
 ============
+
 搜索某个命令的一些帮助文档：
 
 help:
@@ -112,6 +118,7 @@ info
 带*号为超链接，tab键跳转。然后回车直接转到该node，‘u’为跳转上级node
 
 =========
+
 理解shell
 linux内核需要和用户或者其他外界资源交互。所以会安装不同的shell，对用户而言，每建立一个用户。系统默认分配一个bash shell给他用于和内核交互.
 查询系统的shell： cat /etc/shells
@@ -127,12 +134,14 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 	bash [GNU 长选项] [选项] 脚本文件 ...
 
 ======
+
 输入新的shell名字。临时更改shell
 查看当前shell echo $SHELL
 永远更改 chshin 管理员更改就用usermod -s 
 新增用户定义其Shell： useradd -s /bin/ksh user2
 
 ======
+
 Bash基本操作
 
 ===ogv转mp4视频加水印===
@@ -140,10 +149,12 @@ Bash基本操作
 ffmpeg -i Evel.ogv -vf "drawtext=fontfile=simhei.ttf: text='By Evel':x=10:y=10:fontsize=24:fontcolor=yellow:shadowy=2" -f mp4 demo2.mp4
 
 ===自动登录====
+
 autologin-guest=false
 autologin-user=evel
 autologin-user-timeout=0
 autologin-session=xfce
 
 ===多屏幕共享方案===
+
 Synergy
