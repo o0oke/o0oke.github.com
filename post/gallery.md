@@ -4,17 +4,14 @@ Gallery
 Wonderful moment
 ================
 
+* My UOS desktop
+
+[![image](http://www.evel.cn/post/upload/UOS.png)](http://www.evel.cn/post/upload/UOS.png)
+
 * My Manjaro desktop
 
-[![image](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/DT_manjaro_20180928_Evel.jpg)](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/DT_manjaro_20180928_Evel.jpg)
+[![image](http://www.evel.cn/post/upload/DT_manjaro_20180928_Evel.jpg)](http://www.evel.cn/post/upload/DT_manjaro_20180928_Evel.jpg)
 
 * Design the logo for Wanigo
 
-[![image](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/wanigo_logo.jpg)](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/wanigo_logo.jpg)
-
-* My UOS desktop
-
-[![image](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/UOS.png)](https://raw.githubusercontent.com/o0oke/o0oke.github.com/master/post/upload/UOS.png)
-
-
-
+[![image](http://www.evel.cn/post/upload/wanigo_logo.jpg)](http://www.evel.cn/post/upload/wanigo_logo.jpg)
