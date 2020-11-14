@@ -37,6 +37,6 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 
 Here are some contact references in addition to the previous section.
 
-* I setup a messager which can got the message from index page of this side.
+* I setup a messager which can got the message from [message page]{http://www.evel.cn/index.html} of this side.
 * Google Voice number +1 5708800119, maybe you can leave a message firstly
 * I have one weibo, just called 'Evel' but I haven't used it for a long time since we using Wechat. :(
