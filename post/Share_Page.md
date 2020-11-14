@@ -7,23 +7,22 @@ Welcome to my personal share page.
 I collect & make some videos when I am free.
 
 * THE CONTINENT
-> <iframe src='http://player.youku.com/embed/XNzQxMjU2ODI0' frameborder=0 'allowfullscreen'></iframe>
-
+<iframe src="http://player.youku.com/embed/XNzQxMjU2ODI0" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>
 * A video when I worked in Wistron, Zhongshan City, 2006
-> <iframe src='http://player.youku.com/embed/XMjQzODkyOA' frameborder=0 'allowfullscreen'></iframe>
+<iframe src="http://player.youku.com/embed/XMjQzODkyOA" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <br>
 * A fishing video when I worked in Wistron, Keelung City，Taiwan. 2009
-> <iframe src='http://player.youku.com/embed/XMjM0Mzg0ODUy' frameborder=0 'allowfullscreen'></iframe>
+<iframe src="http://player.youku.com/embed/XMjM0Mzg0ODUy" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <br>
 * The rock&roll version of Cannon which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
-> <iframe src='http://player.youku.com/embed/XMjMxNzU0MTk2' frameborder=0 'allowfullscreen'></iframe>
+<iframe src="http://player.youku.com/embed/XMjMxNzU0MTk2" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <br>
 * The annual dinner & party video when I worked in NVIDIA, Shenzhen, 2013.
-> <iframe src='http://player.youku.com/embed/XNTA1MjU2MTk2' frameborder=0 'allowfullscreen'></iframe>
+<iframe src="http://player.youku.com/embed/XNTA1MjU2MTk2" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <br>
 
@@ -37,6 +36,6 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 
 Here are some contact references in addition to the previous section.
 
-* I setup a messager which can got the message from [message page](http://www.evel.cn/msg.html) of this side.
+* I setup a messager which can got the message from <a href="http://www.evel.cn/msg.html" target="_blank">message page</a> of this side.
 * Google Voice number +1 5708800119, maybe you can leave a message firstly
 * I have one weibo, just called 'Evel' but I haven't used it for a long time since we using Wechat. :(
