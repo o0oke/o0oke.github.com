@@ -1,37 +1,54 @@
-Note records
-
+Technology records
 =====================
 
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).
+* [1.Linux](#n1)
+ * [本机服务器搭建](#n1.1)
+ * [VNC服务器](#n1.2)
+ * [系统声音配置](#n1.3)
+ * [ZIP](#n1.4)
+ * [查询历史命令](#n1.5)
+ * [查询温度传感器](#n1.6)
+ * [查看和调整Linux声音](#n1.7)
+ * [查找文件目录](#n1.8)
+ * [VIM](#n1.9)
+ * [帮助相关](#n1.10)
+ * [SHELL](#n1.11)
+ * [系统SHELL更换](#n1.12)
+ * [ogv转mp4视频加水印](#n1.13)
+ * [自动登录](#n1.14)
+ * [多屏幕共享方案](#n1.15)
+* [2.Web](#n2)
+ * [web进展](#n2.1)
 
-1, node
+<h2 id="n1">Linux</h2>
+
+<h3 id="n1.1">VNC服务器</h3>
+1,搭建node服务器
 [evel@evel-arch node]$ node server.js 
 Server running at http://127.0.0.1:8888/
 2, ./ngrok http 8888
-
-===
-
-VNC服务器：
-
-VNC from Win to Linux
-x11vnc -display :0
-VNC from Linux to Win:
-using Wine to run vncviwer directly
-lnlrzyqfmpetbija
+3, 本机服务器位置
 网页目录：/srv/http/
 systemctl start httpd
 systemctl stop httpd
 systemctl status httpd
 
+<h3 id="n1.2">VNC服务器</h3>
+VNC from Win to Linux
+x11vnc -display :0
+VNC from Linux to Win:
+using Wine to run vncviwer directly
+
+<h3 id="n1.3">系统声音配置</h3>
 rmmod pcspkr--关闭警告声
 modprobe pcspkr-打开
 
-======ZIP=========
-
+<h3 id="n1.4">ZIP</h3>
 [evel@evel-arch borderify]$ ls
 borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ zip -r -FS ../borderify.zip *
-  adding: borderify.js (stored 0%)
+*  adding: borderify.js (stored 0%)
   adding: icons/ (stored 0%)
   adding: icons/border-48.png (deflated 3%)
   adding: manifest.json (deflated 42%)
@@ -39,31 +56,22 @@ borderify.js  icons  manifest.json
 borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ cd ..
 [evel@evel-arch firefox]$ ls
-borderify  borderify.zip
+borderify  borderify.zip*
 
-===================
-
+*<h3 id="n1.5">查询历史命令</h3>
 查询历史命令：
 history | grep pacman
-
+<h3 id="n1.6">查询温度传感器</h3>
 查询温度传感器数据
 sensors
-
+<h3 id="n1.7">查看和调整Linux声音</h3>
 查看和调整声音
 alsamixer
-
-web：
-1,保证文章长度超过一定长度。确保点击后无缩小放大的情况--ok
-2,文章代码高亮方案
-3,文章列表方案
-4, 选择文字弹出评论框方案
-5, 评论框固定方案
 
 You can use profiled systemd units to start/stop shadowsocks: (Profiles are placed under /etc/shadowsocks/*.json)
 systemctl start/stop shadowsocks[-server]@<conf-name>
 
-============
-
+<h3 id="n1.8">查找文件目录</h3>
 查找文件目录等
 tree -f | grep pdf
 tree -f -h -D -c | grep -E pdf$
@@ -71,14 +79,12 @@ tree -f -h -D -c | grep -E pdf$
 [evel@evel-arch ~]$ tree -f -h -D -C | grep 学习
 │   ├── [3.0M Jun 29  2017]  ./Document/603. 面向移动计算的深度学习-程健.pdf
 
-===========
-
+<h3 id="n1.9">VIM</h3>
 VIM：
 zf创建折叠， 代码折叠 zm 折叠所有，zo展开一个折叠，zj/zk跳到下/上一个折叠
 mkview 生成一个文件的view loadview 加载某个文件的view
 
-============
-
+<h3 id="n1.10">帮助相关</h3>
 搜索某个命令的一些帮助文档：
 
 help:
@@ -117,8 +123,7 @@ info
 's'或者斜杠/ 开启查询，{ 和 } 为上一个下一个跳转
 带*号为超链接，tab键跳转。然后回车直接转到该node，‘u’为跳转上级node
 
-=========
-
+<h3 id="n1.11">SHELL</h3>
 理解shell
 linux内核需要和用户或者其他外界资源交互。所以会安装不同的shell，对用户而言，每建立一个用户。系统默认分配一个bash shell给他用于和内核交互.
 查询系统的shell： cat /etc/shells
@@ -133,28 +138,29 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 用法：	bash [GNU 长选项] [选项] ...
 	bash [GNU 长选项] [选项] 脚本文件 ...
 
-======
-
+<h3 id="n1.12">系统SHELL更换</h3>
 输入新的shell名字。临时更改shell
 查看当前shell echo $SHELL
 永远更改 chshin 管理员更改就用usermod -s 
 新增用户定义其Shell： useradd -s /bin/ksh user2
 
-======
-
-Bash基本操作
-
-===ogv转mp4视频加水印===
-
+<h3 id="n1.13">ogv转mp4视频加水印</h3>
 ffmpeg -i Evel.ogv -vf "drawtext=fontfile=simhei.ttf: text='By Evel':x=10:y=10:fontsize=24:fontcolor=yellow:shadowy=2" -f mp4 demo2.mp4
 
-===自动登录====
-
+<h3 id="n1.14">自动登录</h3>
 autologin-guest=false
 autologin-user=evel
 autologin-user-timeout=0
 autologin-session=xfce
 
-===多屏幕共享方案===
-
+<h3 id="n1.15">多屏幕共享方案</h3>
 Synergy
+
+<h2 id="n2">Web</h2>
+
+<h3 id="n2.1">web进展</h3>
+1,保证文章长度超过一定长度。确保点击后无缩小放大的情况--ok
+2,文章代码高亮方案
+3,文章列表方案
+4, 选择文字弹出评论框方案
+5, 评论框固定方案*

@@ -1,9 +1,6 @@
 Gallery 
 =====================
 
-Wonderful moment
-================
-
 * My UOS desktop
 
 [![image](http://www.evel.cn/post/upload/UOS.png)](http://www.evel.cn/post/upload/UOS.png)
