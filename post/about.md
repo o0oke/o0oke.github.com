@@ -2,8 +2,9 @@ About
 
 [========]
 
-This is a personal website matained by Github, all notes wrote by martdown and edited by [Spck online editor](https://spck.io/)
-Here's an inline link to [Markdown Online editor](http://www.mdeditor.com/).
+This is a personal website matained by Github, all notes wrote by martdown and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>
+Here's an link to [Markdown Online editor](http://www.mdeditor.com/).
+
 
 [========]
 
