@@ -37,7 +37,7 @@ Learnning and do some summary for the personal development. I always use the ngr
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
 
 <video id="video" controls="" preload="none" poster="http://www.evel.cn/post/upload/UOS.png">
-<source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
+<source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4" allowfullscreen="">
 </video>
 
 作者：范东同学
