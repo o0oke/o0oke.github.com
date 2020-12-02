@@ -9,6 +9,11 @@ I collect & make some videos when I am free.
 * THE CONTINENT
 <iframe src="http://player.youku.com/embed/XNzQxMjU2ODI0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
 </iframe>
+
+<br>
+<iframe src="http://player.youku.com/embed/XMjQzODkyOA">
+</iframe>
+
 <br>
 * A video when I worked in Wistron, Zhongshan City, 2006
 <iframe src="http://player.youku.com/embed/XMjQzODkyOA" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
@@ -29,6 +34,8 @@ I collect & make some videos when I am free.
 <iframe src="http://player.youku.com/embed/XNTA1MjU2MTk2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
 </iframe>
 
+
+
 <br>
 
 ## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro.
@@ -37,8 +44,9 @@ Learnning and do some summary for the personal development. I always use the ngr
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
 
 <video id="video" controls="" preload="none">
-<source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4" allowfullscreen="">
+<source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
 </video>
+
 
 
 ## Chapter 3 - Others
@@ -47,5 +55,5 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 Here are some contact references in addition to the previous section.
 
 * I setup a messager which can got the message from <a href="http://www.evel.cn/msg.html" target="_blank">message page</a> of this side.
-* Google Voice number +1 5708800119, maybe you can leave a message firstly
-* I have one weibo, just called 'Evel' but I haven't used it for a long time since we using Wechat. :(
+* Google Voice number <i class="fa fa-google-plus"></i> +1 5708800119, maybe you can leave a message firstly
+* I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since we using <i class="fa fa-weixin" style="color:green"></i>. :(
