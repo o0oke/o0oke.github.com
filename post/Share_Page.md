@@ -39,10 +39,9 @@ I collect & make some videos when I am free.
 Learnning and do some summary for the personal development. I always use the ngrok to setup a free host for it. to test some development on the page of notes
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
 
-<video id="video" controls="" preload="none">
-<source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
+<video id="video" width="500" height="287" controls="" preload="none">
+<source id="mp4" with="500" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
 </video>
-
 
 
 ## Chapter 3 - Others
