@@ -11,10 +11,6 @@ I collect & make some videos when I am free.
 </iframe>
 
 <br>
-<iframe src="http://player.youku.com/embed/XMjQzODkyOA">
-</iframe>
-
-<br>
 * A video when I worked in Wistron, Zhongshan City, 2006
 <iframe src="http://player.youku.com/embed/XMjQzODkyOA" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
 </iframe>
