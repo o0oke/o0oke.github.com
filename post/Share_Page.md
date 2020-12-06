@@ -7,27 +7,27 @@ Welcome to my personal share page.
 I collect & make some videos when I am free.
 
 * THE CONTINENT
-<iframe height="100%" width="100%" src="http://player.youku.com/embed/XNzQxMjU2ODI0" allowfullscreen="true">
+<iframe width="100%" src="http://player.youku.com/embed/XNzQxMjU2ODI0" allowfullscreen="true">
 </iframe>
 
 <br>
 * A video when I worked in Wistron, Zhongshan City, 2006
-<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjQzODkyOA" allowfullscreen="true">
+<iframe width="100%" src="http://player.youku.com/embed/XMjQzODkyOA" allowfullscreen="true">
 </iframe>
 
 <br>
 * A fishing video when I worked in Wistron, Keelung City，Taiwan. 2009
-<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjM0Mzg0ODUy" allowfullscreen="true">
+<iframe width="100%" src="http://player.youku.com/embed/XMjM0Mzg0ODUy" allowfullscreen="true">
 </iframe>
 
 <br>
 * The rock&roll version of Cannon which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
-<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjMxNzU0MTk2" allowfullscreen="true">
+<iframe width="100%" src="http://player.youku.com/embed/XMjMxNzU0MTk2" allowfullscreen="true">
 </iframe>
 
 <br>
 * The annual dinner & party video when I worked in NVIDIA, Shenzhen, 2013.
-<iframe height="100%" width="100%" src="http://player.youku.com/embed/XNTA1MjU2MTk2" allowfullscreen="true">
+<iframe width="100%" src="http://player.youku.com/embed/XNTA1MjU2MTk2" allowfullscreen="true">
 </iframe>
 
 <br>
