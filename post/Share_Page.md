@@ -7,30 +7,28 @@ Welcome to my personal share page.
 I collect & make some videos when I am free.
 
 * THE CONTINENT
-<iframe src="http://player.youku.com/embed/XNzQxMjU2ODI0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe height="100%" width="100%" src="http://player.youku.com/embed/XNzQxMjU2ODI0" allowfullscreen="true">
 </iframe>
 
 <br>
 * A video when I worked in Wistron, Zhongshan City, 2006
-<iframe src="http://player.youku.com/embed/XMjQzODkyOA" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjQzODkyOA" allowfullscreen="true">
 </iframe>
 
 <br>
 * A fishing video when I worked in Wistron, Keelung City，Taiwan. 2009
-<iframe src="http://player.youku.com/embed/XMjM0Mzg0ODUy" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjM0Mzg0ODUy" allowfullscreen="true">
 </iframe>
 
 <br>
 * The rock&roll version of Cannon which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
-<iframe src="http://player.youku.com/embed/XMjMxNzU0MTk2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe height="100%" width="100%" src="http://player.youku.com/embed/XMjMxNzU0MTk2" allowfullscreen="true">
 </iframe>
 
 <br>
 * The annual dinner & party video when I worked in NVIDIA, Shenzhen, 2013.
-<iframe src="http://player.youku.com/embed/XNTA1MjU2MTk2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe height="100%" width="100%" src="http://player.youku.com/embed/XNTA1MjU2MTk2" allowfullscreen="true">
 </iframe>
-
-
 
 <br>
 
@@ -39,10 +37,10 @@ I collect & make some videos when I am free.
 Learnning and do some summary for the personal development. I always use the ngrok to setup a free host for it. to test some development on the page of notes
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
 
-<video id="video" width="500" controls="" preload="none">
+<video id="video" width="100%" controls="" preload="none">
 <source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
 </video>
-
+<br>
 
 ## Chapter 3 - Others
 -------------------------
