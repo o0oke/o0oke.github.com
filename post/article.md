@@ -1,4 +1,4 @@
-Technology records
+Collection
 =====================
 
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).

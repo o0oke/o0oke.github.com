@@ -1,6 +1,6 @@
-Welcome to my personal share page.
+Welcome to my share page.
 ================================
-* I have one idea of making a moments pages of personal experience. so here is the page for sharing.
+* I have one idea of making a moments pages of my experience. so here is the page for sharing.
 
 ## Chapter 1 - Some Videos
 
@@ -32,7 +32,7 @@ I collect & make some videos when I am free.
 
 <br>
 
-## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro.
+## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro and a DT with UOS.
 
 Learnning and do some summary for the personal development. I always use the ngrok to setup a free host for it. to test some development on the page of notes
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
