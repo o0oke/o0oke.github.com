@@ -6,9 +6,6 @@ $(document).ready(function(){
     //can read from a single js file for article list array only.
     //ToDo: Dynamic update according to the *.md file list under post folder.
     var table1 = document.getElementById('artlist');
-    $("#index").click(function() {
-      LoadDMFile("index");
-    });
     $("#about").click( function(){
       LoadDMFile("about");
     });
