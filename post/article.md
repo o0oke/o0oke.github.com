@@ -25,15 +25,18 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
 
 <h3 id="n1.1">VNC服务器</h3>
 1,搭建node服务器
+```
 [evel@evel-arch node]$ node server.js 
 Server running at http://127.0.0.1:8888/
+```
 2, ./ngrok http 8888
 3, 本机服务器位置
+```
 网页目录：/srv/http/
 systemctl start httpd
 systemctl stop httpd
 systemctl status httpd
-
+```
 <h3 id="n1.2">VNC服务器</h3>
 VNC from Win to Linux
 x11vnc -display :0
@@ -45,6 +48,7 @@ rmmod pcspkr--关闭警告声
 modprobe pcspkr-打开
 
 <h3 id="n1.4">ZIP</h3>
+```
 [evel@evel-arch borderify]$ ls
 borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ zip -r -FS ../borderify.zip *
@@ -57,7 +61,7 @@ borderify.js  icons  manifest.json
 [evel@evel-arch borderify]$ cd ..
 [evel@evel-arch firefox]$ ls
 borderify  borderify.zip*
-
+```
 *<h3 id="n1.5">查询历史命令</h3>
 查询历史命令：
 history | grep pacman
@@ -73,11 +77,15 @@ systemctl start/stop shadowsocks[-server]@<conf-name>
 
 <h3 id="n1.8">查找文件目录</h3>
 查找文件目录等
+```
 tree -f | grep pdf
 tree -f -h -D -c | grep -E pdf$
+```
 一下-C仅仅针对Linux盘下文件其起作用
+```
 [evel@evel-arch ~]$ tree -f -h -D -C | grep 学习
 │   ├── [3.0M Jun 29  2017]  ./Document/603. 面向移动计算的深度学习-程健.pdf
+```
 
 <h3 id="n1.9">VIM</h3>
 VIM：
@@ -145,14 +153,17 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 新增用户定义其Shell： useradd -s /bin/ksh user2
 
 <h3 id="n1.13">ogv转mp4视频加水印</h3>
+```
 ffmpeg -i Evel.ogv -vf "drawtext=fontfile=simhei.ttf: text='By Evel':x=10:y=10:fontsize=24:fontcolor=yellow:shadowy=2" -f mp4 demo2.mp4
+```
 
 <h3 id="n1.14">自动登录</h3>
+```
 autologin-guest=false
 autologin-user=evel
 autologin-user-timeout=0
 autologin-session=xfce
-
+```
 <h3 id="n1.15">多屏幕共享方案</h3>
 Synergy
 

@@ -92,9 +92,9 @@ GFM a-tail link @pandao
 
 即缩进四个空格，也做为实现类似 `<pre>` 预格式化文本 ( Preformatted Text ) 的功能。
 ```php
-    <?php
-        echo "Hello world!";
-    ?>
+<?php
+    echo "Hello world!";
+?>
 ```
 预格式化文本：
 
@@ -317,7 +317,6 @@ Note right of China: China thinks\nabout it
 China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
-### End
 
 <h2 id="n2">Spck编辑器</h2>
 
@@ -325,7 +324,6 @@ Andrew->>China: I am good thanks!
 
 <h3 id="n2.1">软件简介</h3>
 SPck编辑器是一款简洁干净的代码编辑小工具应用，小巧但是功能相当的不错而且也很好用，虽然目前上传在Android 4.4设备上会无效，但是还是不能否它的实用性，拥有管理多个项目的功能，而且编辑的速度快，支持将项目导出到ZIP的文件，同时也可以选择从zip的文件导入项目等多种操作，离线也是也可以工具的，支持的语言也比较的多，喜欢的可以自己来试试。
-
 
 
 <h3 id="n2.2">Spck编辑器APP特色</h3>
