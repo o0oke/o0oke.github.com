@@ -1,32 +1,32 @@
-Welcome to my share page.
+Welcome to my video page.
 ================================
-* I have one idea of making a moments pages of my experience. so here is the page for sharing.
+* I have one idea of making a moments pages of my experience. so here is the page.
 
 ## Chapter 1 - Some Videos
 
 I collect & make some videos when I am free.
 
-* [THE CONTINENT](https://v.youku.com/v_show/id_XNzQxMjU2ODI0.html)
+* <a href="https://v.youku.com/v_show/id_XNzQxMjU2ODI0.html" target="_blank">THE CONTINENT</a>
 <iframe width="100%" src="http://player.youku.com/embed/XNzQxMjU2ODI0==" allowfullscreen="true">
 </iframe>
 
 <br>
-* A video when I worked in [Wistron](https://v.youku.com/v_show/id_XMjQzODkyOA==.html), Zhongshan City, 2006
+* A video when I worked in <a href="https://v.youku.com/v_show/id_XMjQzODkyOA==.html" target="_blank">Wistron</a>, Zhongshan City, 2006
 <iframe width="100%" src="http://player.youku.com/embed/XMjQzODkyOA==" allowfullscreen="true">
 </iframe>
 
 <br>
-* [A fishing video](https://v.youku.com/v_show/id_XMjM0Mzg0ODUy.html) when I worked in Wistron, Keelung City，Taiwan. 2009
+* <a href="https://v.youku.com/v_show/id_XMjM0Mzg0ODUy.html" target="_blank">A fishing video</a> when I worked in Wistron, Keelung City，Taiwan. 2009
 <iframe width="100%" src="http://player.youku.com/embed/XMjM0Mzg0ODUy==" allowfullscreen="true">
 </iframe>
 
 <br>
-* The [rock&roll version of Cannon](https://v.youku.com/v_show/id_XMjMxNzU0MTk2.html) which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
+* The <a href="https://v.youku.com/v_show/id_XMjMxNzU0MTk2.html" target="_blank">rock&roll version of Cannon</a> which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
 <iframe width="100%" src="http://player.youku.com/embed/XMjMxNzU0MTk2==" allowfullscreen="true">
 </iframe>
 
 <br>
-* The [annual dinner & party video](https://v.youku.com/v_show/id_XNTA1MjU2MTk2.html) when I worked in NVIDIA, Shenzhen, 2013.
+* The <a href="https://v.youku.com/v_show/id_XNTA1MjU2MTk2.html" target="_blank">annual dinner & party video</a> when I worked in NVIDIA, Shenzhen, 2013.
 <iframe width="100%" src="http://player.youku.com/embed/XNTA1MjU2MTk2==" allowfullscreen="true">
 </iframe>
 
