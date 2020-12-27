@@ -1,4 +1,4 @@
-Welcome to my video page.
+Video
 ================================
 * I have one idea of making a moments pages of my experience. so here is the page.
 
