@@ -7,20 +7,10 @@ Welcome to my video page.
 I collect & make some videos when I am free.
 
 * <a href="https://v.youku.com/v_show/id_XNzQxMjU2ODI0.html" target="_blank">THE CONTINENT</a>
-
-<br>
 * A video when I worked in <a href="https://v.youku.com/v_show/id_XMjQzODkyOA==.html" target="_blank">Wistron</a>, Zhongshan City, 2006
-
-<br>
 * <a href="https://v.youku.com/v_show/id_XMjM0Mzg0ODUy.html" target="_blank">A fishing video</a> when I worked in Wistron, Keelung City，Taiwan. 2009
-
-<br>
 * The <a href="https://v.youku.com/v_show/id_XMjMxNzU0MTk2.html" target="_blank">rock&roll version of Cannon</a> which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
-
-<br>
 * The <a href="https://v.youku.com/v_show/id_XNTA1MjU2MTk2.html" target="_blank">annual dinner & party video</a> when I worked in NVIDIA, Shenzhen, 2013.
-
-<br>
 
 ## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro and a DT with UOS.
 
