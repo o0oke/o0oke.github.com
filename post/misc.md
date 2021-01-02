@@ -27,6 +27,6 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 
 Here are some contact references in addition to the previous section.
 
-* I setup a messager which can got the message from <a href="http://www.evel.cn/msg.html" target="_blank">message page</a> of this side.
+* I setup a messager which can got the message from <a href="https://www.evel.cn/msg.html" target="_blank">message page</a> of this side.
 * Google Voice number <i class="fa fa-google-plus"></i> +1 5708800119, maybe you can leave a message firstly
 * I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since we using <i class="fa fa-weixin" style="color:green"></i>. :(
