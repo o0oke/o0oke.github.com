@@ -12,3 +12,5 @@ Gallery
 * Design the logo for Wanigo
 
 [![image](http://www.evel.cn/post/upload/wanigo_logo.jpg)](http://www.evel.cn/post/upload/wanigo_logo.jpg)
+
+<a class="image-link" href="http://www.evel.cn/post/upload/wanigo_logo.jpg">Open popup</a>

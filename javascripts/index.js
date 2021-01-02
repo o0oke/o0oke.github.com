@@ -28,6 +28,9 @@ $(document).ready(function(){
           }
         );
     }
+    
+    //image popup method
+    $('.image-link').magnificPopup({ type: 'image' });
 
 });
 
@@ -40,4 +43,3 @@ function LoadDMFile(sName){
     $("#showarticle").html(html);
     $('html, body').animate({ scrollTop: 0 }, 'fast');
 }
-
