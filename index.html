@@ -12,6 +12,13 @@
     <link rel="Shortcut Icon" href="stylesheets/logo.ico" type="image/x-icon"/>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- require APlayer -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+    <!-- require MetingJS -->
+    <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+    
     <meta name="viewport" content="width=device-width">
     
   </head>
@@ -24,8 +31,15 @@
           <li><a id="gallery" href="#gallery">personal<strong>Gallery</strong></a></li>
           <li><a id="video" href="#video">life<strong>Video</strong></a></li>
         </ul>
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=272 height=52 src="//music.163.com/outchain/player?type=0&id=10253353&auto=0&height=32"></iframe>
+        <!-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=272 height=52 src="//music.163.com/outchain/player?type=0&id=10253353&auto=0&height=32"></iframe> -->
         <div id="artlist">
+          <meting-js
+          	server="netease"
+          	type="playlist"
+          	id="10253353"
+          	listFolded="true"
+          	order='random'>
+          </meting-js>
         </div>
       </header>
 	
