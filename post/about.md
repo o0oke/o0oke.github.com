@@ -12,11 +12,7 @@ Here's an link to [Markdown Online editor](http://www.mdeditor.com/).
 <h2 id="n1">Markdown语言</h2>
 **Markdown是一种轻量级的「标记语言」**
 
-![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
-
-
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
-
 
 ## MdEditor是一个在线编辑Markdown文档的编辑器
 
