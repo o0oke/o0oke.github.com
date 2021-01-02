@@ -14,4 +14,4 @@ Gallery
 [![image](https://www.evel.cn/post/upload/wanigo_logo.jpg)](https://www.evel.cn/post/upload/wanigo_logo.jpg)
 
 <br>
-<a href="upload/wanigo_logo.jpg" data-lightbox="wanigo_logo" data-title="My caption">Image #1</a>
+<a href="https://www.evel.cn/post/upload/wanigo_logo.jpg" data-lightbox="wanigo_logo" data-title="My caption"><img src="./upload/wanigo_logo.jpg" alt="Design the logo for Wanigo"  /></a>
