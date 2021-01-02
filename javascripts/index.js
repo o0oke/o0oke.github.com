@@ -12,27 +12,12 @@ $(document).ready(function(){
     $("#gallery").click( function(){
       LoadDMFile("gallery");
     });
-    $("#article").click( function(){
-      LoadDMFile("article");
+    $("#collection").click( function(){
+      LoadDMFile("collection");
     });
-    $("#video").click(function() {
-      LoadDMFile("video");
+    $("#misc").click(function() {
+      LoadDMFile("misc");
     });
-  //   var title=
-  //   [
-  //       "Share Page",
-  //       //"Some Code For Check",
-  //       //"Early Childhood Education",
-  //   ];
-  //   var ahtml_list = "";
-    
-  //   for( n=0; n<title.length;n++ )
-  //   {
-  //     var titlestring = title[n].replace(/ /g, "_");
-  //     ahtml_list += "<a id=\""+titlestring+"\" href=\"#"+titlestring+"\">"+title[n]+"</a><br>";
-  //   }
-  // // ahtml_list = ahtml_list + "</ol>";
-  //   $("#artlist").html(ahtml_list);
 
     //by now. all the artical and links ready, begin to enable click and show MD files.
     var linklist = table1.getElementsByTagName('a');
