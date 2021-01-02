@@ -28,9 +28,6 @@ $(document).ready(function(){
           }
         );
     }
-    
-    //image popup method
-    $('.image-link').magnificPopup({ type: 'image' });
 
 });
 
