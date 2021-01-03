@@ -62,18 +62,18 @@ borderify.js  icons  manifest.json
 [evel@evel-arch firefox]$ ls
 borderify  borderify.zip*
 ```
-*<h3 id="n1.5">查询历史命令</h3>
+<h3 id="n1.5">查询历史命令</h3>
 查询历史命令：
+```
 history | grep pacman
+```
 <h3 id="n1.6">查询温度传感器</h3>
 查询温度传感器数据
 sensors
 <h3 id="n1.7">查看和调整Linux声音</h3>
 查看和调整声音
-alsamixer
 
-You can use profiled systemd units to start/stop shadowsocks: (Profiles are placed under /etc/shadowsocks/*.json)
-systemctl start/stop shadowsocks[-server]@<conf-name>
+alsamixer
 
 <h3 id="n1.8">查找文件目录</h3>
 查找文件目录等
@@ -94,7 +94,7 @@ mkview 生成一个文件的view loadview 加载某个文件的view
 
 <h3 id="n1.10">帮助相关</h3>
 搜索某个命令的一些帮助文档：
-
+```
 help:
 [evel@evel-arch ~]$ help 
 GNU bash，版本 4.4.19(1)-release (x86_64-unknown-linux-gnu)
@@ -130,16 +130,19 @@ info
 有超链接并且查询方法不一样
 's'或者斜杠/ 开启查询，{ 和 } 为上一个下一个跳转
 带*号为超链接，tab键跳转。然后回车直接转到该node，‘u’为跳转上级node
-
+```
 <h3 id="n1.11">SHELL</h3>
 理解shell
 linux内核需要和用户或者其他外界资源交互。所以会安装不同的shell，对用户而言，每建立一个用户。系统默认分配一个bash shell给他用于和内核交互.
-查询系统的shell： cat /etc/shells
+查询系统的shell：
+```
+cat /etc/shells
 sh和bash一个东西
 sh-4.4$ sh -help
 GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 用法：	sh [GNU 长选项] [选项] ...
 	sh [GNU 长选项] [选项] 脚本文件 ...
+```
 
 [evel@evel-arch ~]$ bash -help
 GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
@@ -170,8 +173,17 @@ Synergy
 <h2 id="n2">Web</h2>
 
 <h3 id="n2.1">web进展</h3>
-1,保证文章长度超过一定长度。确保点击后无缩小放大的情况--ok
-2,文章代码高亮方案
-3,文章列表方案
-4, 选择文字弹出评论框方案
-5, 评论框固定方案*
+
+- [x] 1,保证文章长度超过一定长度。确保点击后无缩小放大的情况
+- [ ] 2,文章代码高亮方案
+- [x] 3,文章列表方案
+- [ ] 4, 选择文字弹出评论框方案
+- [ ] 5, 评论框固定方案
+- [x] 6, 音乐播放器
+- [x] 7, 图片分享
+- [x] 8, 图标展示
+- [x] 9, 视频外链
+
+
+
+

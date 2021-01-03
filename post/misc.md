@@ -1,6 +1,6 @@
 MISC
 ================================
-* I have one idea of making a moments pages of my experience. so here is the page.
+* Here is the page of miscellany sharing. like some videos or other media.
 
 ## Chapter 1 - Some Videos
 
