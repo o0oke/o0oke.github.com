@@ -2,7 +2,7 @@ About
 ========
 
 This is a personal website matained by Github, all notes wrote by martdown and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>
-Here's an link to [Markdown Online editor](http://www.mdeditor.com/).
+Here's an link to <a href="http://www.mdeditor.com/)" target="_blank">Markdown Online editor</a>.
 
 * [1.Markdown语言](#n1)
 * [2.Spck编辑器](#n2)
@@ -28,7 +28,7 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 <h2 id="n2">Spck编辑器</h2>
 
 <h3 id="n2.1">软件简介</h3>
-SPck编辑器是一款简洁干净的代码编辑小工具应用，支持Web,Android，桌面，拥有管理多个项目的功能，而且编辑的速度快，支持将项目导出到ZIP的文件，同时也可以选择从zip的文件导入项目等多种操作，离线也是也可以工具的，支持的语言也比较的多，喜欢的可以自己来试试。
+SPck编辑器是一款简洁干净的代码编辑小工具应用，支持Web,Android,桌面等,拥有管理多个项目的功能，而且编辑的速度快，支持将项目导出到ZIP的文件，同时也可以选择从zip的文件导入项目等多种操作，离线也是也可以工具的，支持的语言也比较的多，喜欢的可以自己来试试。更关键的是支持了Github文件授权编辑和同步。
 
 <h3 id="n2.2">Spck编辑器APP特色</h3>
 1、安装包小，而且可以进行随时的编辑，支持离线工作模式，支持 JavaSCRIPT、TypeSCRIPT、以及Less等多种的语言，而且还支持其他的流行语言；
