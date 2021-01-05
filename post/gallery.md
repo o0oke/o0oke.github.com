@@ -12,3 +12,7 @@ Gallery
 * My designs
 
 <a href="https://www.evel.cn/post/upload/wanigo_logo.jpg" data-lightbox="Gallery" data-title="Design the logo for Wanigo"><img src="https://www.evel.cn/post/upload/wanigo_logo.jpg" alt="Design the logo for Wanigo" /></a>
+
+* My date
+
+<a href="https://www.evel.cn/post/upload/birthday.jpg" data-lightbox="Gallery" data-title="Birthday of 2020"><img src="https://www.evel.cn/post/upload/birthday.jpg" alt="Birthday of 2020" /></a>
