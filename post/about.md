@@ -1,4 +1,4 @@
-Website
+About
 ========
 
 This is a personal website matained by Github, all notes wrote by martdown and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>
