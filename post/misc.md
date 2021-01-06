@@ -21,11 +21,13 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 <source id="mp4" src="http://www.evel.cn/post/upload/short.mp4" type="video/mp4">
 </video>
 
-
+<br>
 ## Chapter 3 - Others
 
-Here are some contact references in addition to the previous section.
+Here are some contact references in addition to the previous section. General speaking, it's a long story on the social network experience.
 
-* I setup a messager which can got the message from <a href="https://www.evel.cn/msg.html" target="_blank">message page</a> of this side.
-* Google Voice number <i class="fa fa-google-plus"></i> +1 5708800119, maybe you can leave a message firstly
-* I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since we using <i class="fa fa-weixin" style="color:green"></i>. :(
+* I used product of Tencent, like QQ, Qzone when I begin my university life, and then the PAOPAO of netease, UC, OICQ, Yahoo messager, and I begin use the nick name 'Evel' when I play game with friend about 2001, after graduation I use the ChinaRen for contact with classmates.
+* I begin to use MSN, Skype when I worked in Wistron from 2005-2009.
+* I start to use product of Google, like Gtalk, BUZZ, and later google+ <i class="fa fa-google-plus"></i>, also Facebook, Twitter, Whatsapp when I worked in NV shenzhen, and keep my Google Voice number +1 5708800119 by now, maybe you can leave a message if you are abroad. Sure I can reveive the message freely by email.
+* I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since I using <i class="fa fa-weixin" style="color:green"></i>. :(
+* Yes, now I setup the personal site here and a messager which can got the message from <a href="https://www.evel.cn/msg.html" target="_blank">message page</a> of this side.

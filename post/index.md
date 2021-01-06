@@ -1,3 +1,3 @@
-Something wonderful records or sharing in the life, work. yes, it's a new start.
+Something wonderful records or sharing in my life, work. Yes, it's a new personal social network site other than wechat moment, Sina weibo. - Evel, 2021@Dongguan
 
 [![image](https://picsum.photos/360/780?random=1)](https://picsum.photos/360/780?random=1)
