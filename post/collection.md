@@ -30,6 +30,7 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
 Server running at http://127.0.0.1:8888/
 ```
 2, ./ngrok http 8888
+
 3, 本机服务器位置
 ```
 网页目录：/srv/http/
