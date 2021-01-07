@@ -1,8 +1,7 @@
 About
 ========
 
-This is a personal website matained by Github, all notes wrote by martdown and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>
-Here's an link to <a href="http://www.mdeditor.com/" target="_blank">Markdown Online editor</a>.
+This website wrote by javescript and html, all notes wrote by markdown files which populated at Github and edited by <a href="https://spck.io/" target="_blank">Spck online editor</a>, here's an link to <a href="http://www.mdeditor.com/" target="_blank">Markdown Online editor</a>.
 
 * [1.Markdown语言](#n1)
 * [2.Spck编辑器](#n2)
