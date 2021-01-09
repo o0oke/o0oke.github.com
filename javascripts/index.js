@@ -36,7 +36,7 @@ function LoadDMFile(sName){
     htmlobj=$.ajax({url:"post/"+sName+".md",async:false});
     var converter = new showdown.Converter();
     var text = htmlobj.responseText; 
-    var html = converter.makeHtml(text);
-    $("#showarticle").html(html);
-    //$('html, body').animate({ scrollTop},"fast");
+    var bhtml = converter.makeHtml(text);
+    $("#showarticle").html(bhtml);
+    $("html,body").animate({ scrollTop: 0},"fast");
 }
