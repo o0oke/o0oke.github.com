@@ -38,5 +38,5 @@ function LoadDMFile(sName){
     var text = htmlobj.responseText; 
     var html = converter.makeHtml(text);
     $("#showarticle").html(html);
-    $('html, body').animate({ scrollTop: 0 }, 'fast');
+    $('html, body').animate({ scrollTop: 0 }, {duration: "fast"});
 }
