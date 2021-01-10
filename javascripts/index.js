@@ -1,4 +1,3 @@
-   
 $(document).ready(function(){
     //Get from the init folder for welcome or something you want show to user in index page
     LoadDMFile('index');
@@ -12,19 +11,6 @@ $(document).ready(function(){
         });
       }
     );
-    // $("#about").click( function(){
-    //   LoadDMFile("about");
-    // });
-    // $("#gallery").click( function(){
-    //   LoadDMFile("gallery");
-    // });
-    // $("#collection").click( function(){
-    //   LoadDMFile("collection");
-    // });
-    // $("#misc").click(function() {
-    //   LoadDMFile("misc");
-    // });
-
 });
 
 // function of loading markdown file into the showarticle section of the page.
@@ -34,5 +20,6 @@ function LoadDMFile(sName){
     var text = htmlobj.responseText; 
     var bhtml = converter.makeHtml(text);
     $("#showarticle").html(bhtml);
-    $("html,body").animate({ scrollTop: 0},"fast");
+    $("html,body").scrollTop(0);
+    // $("html,body").animate({ scrollTop: 0},"fast");
 }
