@@ -20,6 +20,8 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
  * [多屏幕共享方案](#n1.15)
 * [2.Web](#n2)
  * [web进展](#n2.1)
+* [3.UOS](#n3)
+ * [UOS过期咋办](#n3.1)
 
 <h2 id="n1">Linux</h2>
 
@@ -185,6 +187,14 @@ Synergy
 - [x] 8, 图标展示
 - [x] 9, 视频外链
 
+<h2 id="n3">UOS</h2>
 
+<h3 id="n3.1">UOS过期咋办</h3>
 
+如不想折腾只要将以下两个文件删除，即可去掉烦人的弹框提醒
+```
+uos-activator-usrbin：/usr/bin
+uos-license-agent：/usr/lib/deepin-daemon
+```
 
+另外如果有应用商店可安装。直接替换源即可。

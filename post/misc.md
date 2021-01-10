@@ -1,6 +1,7 @@
 MISC
 ================================
-* Here is the page of miscellany records. like some videos or other media.
+
+Here is the page of miscellany records. like some videos or other media.
 
 ## Chapter 1 - Some Videos
 
