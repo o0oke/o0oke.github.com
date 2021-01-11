@@ -33,5 +33,5 @@ Gallery
 * My Weibo moments
 
 <a href="https://www.evel.cn/post/upload/weibo.jpg" data-lightbox="Gallery" data-title="Weibo pictures from 2010-2014 .">
-<img src="https://www.evel.cn/post/upload/nvscratch.jpg" alt="Weibo records from 2010-2014'" />
+<img src="https://www.evel.cn/post/upload/weibo.jpg" alt="Weibo records from 2010-2014'" />
 </a>
