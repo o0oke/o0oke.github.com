@@ -25,6 +25,13 @@ Gallery
 
 * My Scratch
 
-<a href="https://www.evel.cn/post/upload/nvscratch.jpg" data-lightbox="Gallery" data-title="NV Scratch, you can find them in each NV PCB. that's what I feel honor of it.">
+<a href="https://www.evel.cn/post/upload/nvscratch.jpg" data-lightbox="Gallery" data-title="NV Scratch, you can find them in each NV PCB. that's what I feel honor on it.">
 <img src="https://www.evel.cn/post/upload/nvscratch.jpg" alt="NV Scratch" />
+</a>
+
+
+* My Weibo moments
+
+<a href="https://www.evel.cn/post/upload/weibo.jpg" data-lightbox="Gallery" data-title="Weibo pictures from 2010-2014 .">
+<img src="https://www.evel.cn/post/upload/nvscratch.jpg" alt="Weibo records from 2010-2014'" />
 </a>
