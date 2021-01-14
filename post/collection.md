@@ -18,6 +18,7 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
  * [ogv转mp4视频加水印](#n1.13)
  * [自动登录](#n1.14)
  * [多屏幕共享方案](#n1.15)
+ * [比对文件彩色标记不同](#n1.16)
 * [2.Web](#n2)
  * [web进展](#n2.1)
 * [3.UOS](#n3)
@@ -173,6 +174,12 @@ autologin-session=xfce
 <h3 id="n1.15">多屏幕共享方案</h3>
 Synergy
 
+<h3 id="n1.16">比对文件彩色标记不同</h3>
+
+```
+apt install colordiff
+diff -y svg.html svg.txt | colordiff
+```
 <h2 id="n2">Web</h2>
 
 <h3 id="n2.1">web进展</h3>
