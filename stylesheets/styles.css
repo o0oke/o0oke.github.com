@@ -232,6 +232,9 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+    background-image:url('images/bg.png');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
   }
 
   header {
@@ -249,6 +252,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
+    background-image:url('images/bg.png');
     padding:15px;
   }
 
