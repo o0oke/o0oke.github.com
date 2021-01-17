@@ -1,6 +1,9 @@
 /*@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);*/
 
 body {
+  background-image:url('images/bg.png');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -195,7 +198,6 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-
   div.wrapper {
     width:auto;
     margin:0;
@@ -232,7 +234,7 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
-    background-image:url('./images/bg.png');
+    background-image:url('images/bg.png');
     background-repeat:no-repeat;
     background-attachment:fixed;
   }
@@ -252,7 +254,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    background-image:url('./images/bg.png');
+    background-image:url('images/bg.png');
     padding:15px;
   }
 
