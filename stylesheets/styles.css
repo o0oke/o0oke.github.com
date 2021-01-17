@@ -254,7 +254,6 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    background-image:url('images/bg.png');
     padding:15px;
   }
 
