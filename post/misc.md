@@ -25,7 +25,7 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 <br>
 ## Chapter 3 - About social network
 
-General speaking, it's a long story on my social network experience.
+General speaking, it's a long story on the social network experience.
 
 * I used product of Tencent, like <i class="fa fa-qq" aria-hidden="true" style="color:blue"></i>, Qzone when I begin my university life, and then the PAOPAO of netease, UC, OICQ, Yahoo messager, and I begin use the nick name 'Evel' when I play game with friend about 2001, after graduation I use the ChinaRen for contact with classmates.
 * I begin to use MSN, Skype <i class="fa fa-skype" aria-hidden="true"></i> when I worked in Wistron from 2005-2009.
