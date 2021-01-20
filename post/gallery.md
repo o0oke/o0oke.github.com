@@ -13,7 +13,7 @@ Gallery
 <a href="https://www.evel.cn/post/upload/DT_manjaro_20180928_Evel.jpg" data-lightbox="Gallery" data-title="My Manjaro desktop">
 <i class="fa fa-linux fa-border fa-5x" aria-hidden="true" style="color:PowderBlue;"></i>
 </a>
-<a href="https://www.evel.cn/post/upload/nvscratch.png" data-lightbox="Gallery" data-title="NV Scratch, you can find them in each NV PCB. that's what I feel honor on it.">
+<a href="https://www.evel.cn/post/upload/nvscratch.png" data-lightbox="Gallery" data-title="NV Scratch, you can find them in each NV PCB.">
 <i class="fa fa-paw fa-border fa-5x" aria-hidden="true" style="color:YellowGreen;"></i>
 </a>
 <a href="https://www.evel.cn/post/upload/weibo.jpg" data-lightbox="Gallery" data-title="Weibo pictures from 2010-2014 .">
