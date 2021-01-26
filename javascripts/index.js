@@ -1,13 +1,12 @@
 $(document).ready(function(){
-    //Get from the init folder for welcome or something you want show to user in index page
+    //Get from the content of index page
     LoadDMFile('index');
-    //begins to update left list of the articles
-    //can read from a single js file for article list array only.
-    //ToDo: Dynamic update according to the *.md file list under post folder.
+    //Enable the click on each tab.
     var artList = ["about", "gallery", "collection", "misc"];
     artList.forEach( function(mkname){
         $("#"+mkname).click(function() {
           LoadDMFile(mkname);
+          $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, "slow"); 
         });
       }
     );
@@ -20,5 +19,4 @@ function LoadDMFile(sName){
     var text = htmlobj.responseText; 
     var bhtml = converter.makeHtml(text);
     $("#showarticle").html(bhtml);
-    $('html, body').animate({ scrollTop: 0 }, 0);
 }
