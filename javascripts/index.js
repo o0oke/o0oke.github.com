@@ -6,7 +6,7 @@ $(document).ready(function(){
     artList.forEach( function(mkname){
         $("#"+mkname).click(function() {
           LoadDMFile(mkname);
-          $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, "fast"); 
+          $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, 1000); 
         });
       }
     );
