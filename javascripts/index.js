@@ -6,7 +6,6 @@ $(document).ready(function(){
     artList.forEach( function(mkname){
         $("#"+mkname).click(function() {
           LoadDMFile(mkname);
-          $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, 1000); 
         });
       }
     );
@@ -19,4 +18,5 @@ function LoadDMFile(sName){
     var text = htmlobj.responseText; 
     var bhtml = converter.makeHtml(text);
     $("#showarticle").html(bhtml);
+    $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, "slow"); 
 }
