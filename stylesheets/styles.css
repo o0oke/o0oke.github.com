@@ -161,9 +161,9 @@ strong {
   font-weight:700;
 }
 
-header ul li + li + li + li {
+header ul li + li + li + li{
   border-right:none;
-  width:68px;
+  width: 68px;
 }
 
 header ul a strong {
@@ -261,7 +261,7 @@ footer {
     width:99%;
   }
 
-  header li, header ul li + li + li {
+  header li, header ul li + li + li + li {
     width:33%;
   }
 }
