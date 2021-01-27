@@ -2,6 +2,8 @@ Collection
 =====================
 
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).
+<details><summary>CLICK ME</summary>
+
 * [1.Linux](#n1)
  * [本机服务器搭建](#n1.1)
  * [VNC服务器](#n1.2)
@@ -23,6 +25,8 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
  * [web进展](#n2.1)
 * [3.UOS](#n3)
  * [UOS过期咋办](#n3.1)
+
+</details>
 
 <h2 id="n1">Linux</h2>
 
