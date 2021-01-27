@@ -10,7 +10,7 @@ $(document).ready(function(){
       }
     );
 
-  $("music").click(function() {
+  $("#music").click(function() {
     $("artlist").toggle();
   });
   
