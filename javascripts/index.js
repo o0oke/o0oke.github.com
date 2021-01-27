@@ -9,6 +9,11 @@ $(document).ready(function(){
         });
       }
     );
+
+  $("music").click(function() {
+    $("artlist").toggle();
+  });
+  
 });
 
 // function of loading markdown file into the showarticle section of the page.
