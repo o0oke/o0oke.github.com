@@ -262,7 +262,7 @@ footer {
   }
 
   header li, header ul li + li + li + li {
-    width:44%;
+    width:33%;
   }
 }
 
