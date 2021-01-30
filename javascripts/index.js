@@ -9,11 +9,6 @@ $(document).ready(function(){
         });
       }
     );
-
-  $("#music").click(function() {
-    $("artlist").toggle();
-  });
-  
 });
 
 // function of loading markdown file into the showarticle section of the page.
@@ -27,5 +22,5 @@ function LoadDMFile(sName){
     var listhtml = converter.makeHtml(listtext);
     $("#showarticle").html(bhtml);
     $("#artlist").html(listhtml);
-    $("html, body").animate({ scrollTop: $("#showarticle").offset().top }, "slow"); 
+    $("html, body").animate({ scrollTop: $("#artlist").offset().top }, "slow"); 
 }
