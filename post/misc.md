@@ -3,17 +3,18 @@ MISC
 
 Here is the page of miscellany records. like some videos or other media.
 
-## Chapter 1 - Some Videos
+<h2 id="m1">Chapter 1 - Some Videos</h2>
 
 I collect & make some videos when I am free.
 
 * <a href="https://v.youku.com/v_show/id_XNzQxMjU2ODI0.html" target="_blank">THE CONTINENT</a>
 * A video when I worked in <a href="https://v.youku.com/v_show/id_XMjQzODkyOA==.html" target="_blank">Wistron</a>, Zhongshan City, 2006
 * <a href="https://v.youku.com/v_show/id_XMjM0Mzg0ODUy.html" target="_blank">A fishing video</a> when I worked in Wistron, Keelung City，Taiwan. 2009
-* The <a href="https://v.youku.com/v_show/id_XMjMxNzU0MTk2.html" target="_blank">rock&roll version of Cannon</a> which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
 * The <a href="https://v.youku.com/v_show/id_XNTA1MjU2MTk2.html" target="_blank">annual dinner & party video</a> when I worked in NVIDIA, Shenzhen, 2013.
+* The <a href="https://v.youku.com/v_show/id_XMjMxNzU0MTk2.html" target="_blank">rock&roll version of Cannon</a> which I love, still remember and greatly touched when make it as the ending background music  of the team's annual party at 2017.
 
-## Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro and a DT with UOS.
+
+<h2 id="m2">Chapter 2 - Notes of my laptop, a Thinkpad X201 with Manjaro and a DT with UOS.</h2>
 
 Learnning and do some summary for the personal development. I always use the ngrok to setup a free host for it. to test some development on the page of notes
 And I also setup a PC which is install UOS v20 for powerful usage for personal research.
@@ -23,7 +24,7 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 </video>
 
 <br>
-## Chapter 3 - About social network
+<h2 id="m3">Chapter 3 - About social network</h2>
 
 General speaking, it's a long story.
 
