@@ -1,4 +1,4 @@
-<details><summary>CLICK ME</summary>
+<details open><summary>CLICK ME</summary>
 
 [1.Linux](#n1)<br>
 &emsp;[1.1 本机服务器搭建](#n1.1)<br>
