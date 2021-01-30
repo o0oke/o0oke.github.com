@@ -22,5 +22,5 @@ function LoadDMFile(sName){
     var listhtml = converter.makeHtml(listtext);
     $("#showarticle").html(bhtml);
     $("#artlist").html(listhtml);
-    $("html, body").animate({ scrollTop: $("#") }, "slow"); 
+    $("html, body").animate({ scrollTop: $("#header") }, "slow"); 
 }
