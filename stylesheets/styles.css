@@ -120,11 +120,11 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:275px;
+  width:272px;
 }
 
 header li {
-  width:68px;
+  width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -163,7 +163,7 @@ strong {
 
 header ul li + li + li + li{
   border-right:none;
-  width: 68px;
+  width: 89px;
 }
 
 header ul a strong {
@@ -261,7 +261,7 @@ footer {
     width:99%;
   }
 
-  header li, header ul li + li + li + li {
+  header li, header ul li + li + li  {
     width:33%;
   }
 }
