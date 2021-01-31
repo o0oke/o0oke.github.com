@@ -1,6 +1,3 @@
-MISC
-================================
-
 Here is the page of miscellany records. like some videos or other media.
 
 <h2 id="m1">Chapter 1 - Some Videos</h2>

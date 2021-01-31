@@ -1,5 +1,3 @@
-Gallery 
-=====================
 <h2 id="g1">Life</h2>
 <h3 id="g1.1">Moment</h3>
 <a href="https://www.evel.cn/post/upload/birthday.png" data-lightbox="Gallery" data-title="Birthday of 2020">

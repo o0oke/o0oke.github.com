@@ -1,6 +1,3 @@
-Collection
-=====================
-
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).
 
 <h2 id="n1">Linux</h2>
