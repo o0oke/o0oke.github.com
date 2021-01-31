@@ -61,6 +61,11 @@ a:hover small {
   margin:0 auto;
 }
 
+.artwrapper {
+  height: 350px;
+  overflow-y: auto;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
