@@ -11,7 +11,7 @@ Gallery
 <a href="https://www.evel.cn/post/upload/nvscratch.png" data-lightbox="Gallery" data-title="NV Scratch, you can find them in each NV PCB.">
 <i class="fa fa-paw fa-border fa-5x fa-fw" aria-hidden="true" style="color:YellowGreen;"></i>
 </a>
-<a href="https://www.evel.cn/post/upload/charity.jpg" data-lightbox="Gallery" data-title="Charity moment in 2017, make the world a better place.">
+<a href="https://www.evel.cn/post/upload/charity.png" data-lightbox="Gallery" data-title="Charity moment in 2017, make the world a better place.">
 <i class="fa fa-paint-brush fa-border fa-5x fa-fw" aria-hidden="true" style="color:Chartreuse;"></i>
 </a>
 <a href="https://www.evel.cn/post/upload/weibo.jpg" data-lightbox="Gallery" data-title="Weibo pictures from 2010-2014 .">
@@ -29,6 +29,6 @@ Gallery
 <a href="https://www.evel.cn/post/upload/afternoon.png" data-lightbox="Gallery" data-title="I love this afternoon">
 <i class="fa fa-map-marker fa-border fa-5x fa-fw" aria-hidden="true" style="color:MediumOrchid;"></i>
 </a>
-<a href="https://www.evel.cn/post/upload/company.jpg" data-lightbox="Gallery" data-title="Always come here for relax">
+<a href="https://www.evel.cn/post/upload/company.png" data-lightbox="Gallery" data-title="Always come here for relax">
 <i class="fa fa-hand-peace-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:SeaShell;"></i>
 </a>
