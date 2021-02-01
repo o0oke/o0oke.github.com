@@ -172,7 +172,7 @@ diff -y svg.html svg.txt | colordiff
 
 <h3 id="n2.2">Code</h3>
 This is a python code for showing how to update your desktop background image.
-<pre><code class="language-html">
+<pre><code class="language-python">
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
