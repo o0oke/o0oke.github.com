@@ -156,7 +156,7 @@ Synergy
 apt install colordiff
 diff -y svg.html svg.txt | colordiff
 ```
-<h3 id="n1.17">Linux录屏上传</h3>
+<h3 id="n1.17">Linux录屏上传，关键是你能从视频中拷贝命令</h3>
 
 <script id="asciicast-388889" src="https://asciinema.org/a/388889.js" async></script>
 

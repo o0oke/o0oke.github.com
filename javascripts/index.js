@@ -24,9 +24,3 @@ function LoadDMFile(sName){
     $("#artlist").html(listhtml);
     $("html, body").animate({ scrollTop: $("#header") }, "slow"); 
 }
-
-document.addEventListener('DOMContentLoaded', (event) => {
-  document.querySelectorAll('pre code').forEach((block) => {
-    hljs.highlightBlock(block);
-  });
-});
