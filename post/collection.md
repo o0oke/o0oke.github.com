@@ -156,6 +156,10 @@ Synergy
 apt install colordiff
 diff -y svg.html svg.txt | colordiff
 ```
+<h3 id="n1.17">Linux录屏上传</h3>
+
+<script id="asciicast-388889" src="https://asciinema.org/a/388889.js" async></script>
+
 <h2 id="n2">Web & Code</h2>
 
 <h3 id="n2.1">web进展</h3>
