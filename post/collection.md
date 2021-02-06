@@ -8,11 +8,11 @@ Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.tx
 [evel@evel-arch node]$ node server.js 
 Server running at http://127.0.0.1:8888/
 ```
-2, ./ngrok http 8888
+2, 或者结合Apache和./ngrok http 80
 
 3, 本机服务器位置
 ```
-网页目录：/srv/http/
+网页目录：/srv/http/ 或者 /var/www/html
 systemctl start httpd
 systemctl stop httpd
 systemctl status httpd
