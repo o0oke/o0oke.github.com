@@ -1,5 +1,7 @@
 Here's an inline link to [my linux notes](http://www.evel.cn/post/upload/note.txt).
 
+<details open><summary>Linux</summary>
+
 <h2 id="n1">Linux</h2>
 
 <h3 id="n1.1">VNC服务器</h3>
@@ -160,6 +162,10 @@ diff -y svg.html svg.txt | colordiff
 
 <script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
 
+</details>
+
+<details open><summary>Web & Code</summary>
+
 <h2 id="n2">Web & Code</h2>
 
 <h3 id="n2.1">web进展</h3>
@@ -232,6 +238,9 @@ if __name__ == '__main__':
 
 </code></pre>
 
+</details>
+<details open><summary>Web & Code</summary>
+
 <h2 id="n3">UOS</h2>
 
 <h3 id="n3.1">UOS过期咋办</h3>
@@ -243,3 +252,5 @@ uos-license-agent：/usr/lib/deepin-daemon
 ```
 
 另外如果有应用商店可安装。直接替换源即可。
+
+</details>
