@@ -160,6 +160,9 @@ diff -y svg.html svg.txt | colordiff
 
 <script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
 
+<h3 id="n1.18">shell实例手册</h3>
+<a href="./post/upload/shell.sh" target="_self">shell实例手册</a>
+	
 <h2 id="n2">Web & Code</h2>
 
 <h3 id="n2.1">web进展</h3>
