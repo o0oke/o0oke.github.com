@@ -15,6 +15,18 @@
 <a href="./post/upload/weibo.jpg" data-lightbox="Gallery" data-title="Weibo pictures from 2010-2014 .">
 <i class="fa fa-weibo fa-border fa-5x fa-fw" aria-hidden="true" style="color:red;"></i>
 </a>
+<a href="./post/upload/2013.png" data-lightbox="Gallery" data-title="Qzone pictures of 2013.">
+<i class="fa fa-picture-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:DarkKhaki;"></i>
+</a>
+<a href="./post/upload/2012.png" data-lightbox="Gallery" data-title="Qzone pictures of 2012.">
+<i class="fa fa-picture-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:DarkBlue;"></i>
+</a>
+<a href="./post/upload/2011.png" data-lightbox="Gallery" data-title="Qzone pictures of 2011.">
+<i class="fa fa-picture-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:Coral;"></i>
+</a>
+<a href="./post/upload/2010.png" data-lightbox="Gallery" data-title="Qzone pictures of 2010.">
+<i class="fa fa-picture-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:Chocolate;"></i>
+</a>
 <h3 id="g1.2">Tech</h3>
 <a href="./post/upload/UOS.png" data-lightbox="Gallery" data-title="My UOS desktop">
 <i class="fa fa-linux fa-border fa-5x fa-fw" aria-hidden="true" style="color:MediumAquaMarine;"></i>
@@ -28,5 +40,5 @@
 <i class="fa fa-map-marker fa-border fa-5x fa-fw" aria-hidden="true" style="color:MediumOrchid;"></i>
 </a>
 <a href="./post/upload/company.png" data-lightbox="Gallery" data-title="Always come here for relax">
-<i class="fa fa-hand-peace-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:SeaShell;"></i>
+<i class="fa fa-hand-peace-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:DarkOliveGreen;"></i>
 </a>
