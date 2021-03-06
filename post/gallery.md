@@ -42,3 +42,6 @@
 <a href="./post/upload/company.png" data-lightbox="Gallery" data-title="Always come here for relax">
 <i class="fa fa-hand-peace-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:DarkOliveGreen;"></i>
 </a>
+<a href="./post/upload/yellowFlower.png" data-lightbox="Gallery" data-title="Handroanthus chrysanthus (Jacq.) S.O.Grose">
+<i class="fa fa-asterisk fa-border fa-5x fa-fw" aria-hidden="true" style="color:yellow;"></i>
+</a>
