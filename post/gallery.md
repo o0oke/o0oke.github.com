@@ -46,5 +46,5 @@
 <i class="fa fa-asterisk fa-border fa-5x fa-fw" aria-hidden="true" style="color:yellow;"></i>
 </a>
 <a href="./post/upload/MyPainting.png" data-lightbox="Gallery" data-title="My traditional Chinese painting which by Meizu phone ">
-<i class="fa fa-paint-brush fa-border fa-5x fa-fw" aria-hidden="true" style="color:green;"></i>
+<i class="fa fa-paint-brush fa-border fa-5x fa-fw" aria-hidden="true" style="color:GoldenRod;"></i>
 </a>
