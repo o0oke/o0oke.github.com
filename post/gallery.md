@@ -45,6 +45,6 @@
 <a href="./post/upload/yellowFlower.png" data-lightbox="Gallery" data-title="Handroanthus chrysanthus (Jacq.) S.O.Grose">
 <i class="fa fa-asterisk fa-border fa-5x fa-fw" aria-hidden="true" style="color:yellow;"></i>
 </a>
-<a href="./post/upload/MyPainting.png" data-lightbox="Gallery" data-title="My traditional Chinese painting which by Meizu phone ">
+<a href="./post/upload/MyChinesePainting.jpg" data-lightbox="Gallery" data-title="My traditional Chinese painting which by Meizu phone ">
 <i class="fa fa-paint-brush fa-border fa-5x fa-fw" aria-hidden="true" style="color:GoldenRod;"></i>
 </a>
