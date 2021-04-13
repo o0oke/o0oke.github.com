@@ -25,7 +25,7 @@ And I also setup a PC which is install UOS v20 for powerful usage for personal r
 
 General speaking, it's a long story.
 
-* I used product of Tencent, like <i class="fa fa-qq" aria-hidden="true" style="color:blue"></i>, Qzone when I begin my university life, and then the PAOPAO of netease, UC, OICQ, Yahoo messager, and I begin use the nick name 'Evel' when I play game with friend about 2001, after graduation I use the ChinaRen for contact with classmates.
+* I used product of Tencent, like <i class="fa fa-qq" aria-hidden="true" style="color:blue"></i>, Qzone when I begin my university life, and then the PAOPAO of netease, UC, OICQ, Yahoo messager, and I begin use the nick name 'Evel' and avatar icon <b><font style="font-family: 'Wingdings 3'; face="Wingdings 3" color="blue">&#82;</font></b> when I play game with friend about 2001, after graduation I use the ChinaRen for contact with classmates.
 * I begin to use MSN, Skype <i class="fa fa-skype" aria-hidden="true"></i> when I worked in Wistron from 2005-2009.
 * I start to use product of Google, like Gtalk, BUZZ, and later <i class="fa fa-google-plus"></i>, also facebook <i class="fa fa-facebook-official" aria-hidden="true" style="color:blue"></i>, twitter <i class="fa fa-twitter"></i>, whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>, telegram <i class="fa fa-telegram" aria-hidden="true"></i> when I worked in NV shenzhen, and keep my Google Voice number +1 5708800119 by now, maybe you can leave a message if you are abroad. Sure I can reveive the message freely by mail.
 * I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since I using <i class="fa fa-weixin" style="color:green"></i>. :(
