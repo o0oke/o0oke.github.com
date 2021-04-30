@@ -158,6 +158,10 @@ diff -y svg.html svg.txt | colordiff
 ```
 <h3 id="n1.17">Linux录屏上传，关键是你能从视频中拷贝命令</h3>
 
+```
+1, start record by 'asciinema rec' command and stop with 'Ctrl+D' or 'exit'
+2, Enter to upload to web automaticly. click and visit the return pages for review the whole progress. 
+```
 <script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
 
 <h3 id="n1.18">shell实例手册</h3>
