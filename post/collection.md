@@ -143,9 +143,9 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 <h3 id="n1.14">自动登录</h3>
 
 >autologin-guest=false
->autologin-user=evel
->autologin-user-timeout=0
->autologin-session=xfce
+autologin-user=evel
+autologin-user-timeout=0
+autologin-session=xfce
 
 <h3 id="n1.15">多屏幕共享方案</h3>
 Synergy
@@ -161,7 +161,7 @@ Synergy
 1, start record by 'asciinema rec' command and stop with 'Ctrl+D' or 'exit'
 2, Enter to upload to web automaticly. click and visit the return pages for review the whole progress. 
 
-<script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
+><script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
 
 <h3 id="n1.18">shell实例手册</h3>
 <a href="./post/upload/shell.txt" target="_blank">shell实例手册</a>
@@ -171,7 +171,7 @@ Synergy
 <h3 id="n2.1">web进展</h3>
 
 - [x] 1,保证文章长度超过一定长度。确保点击后无缩小放大的情况
-- [ ] 2,文章代码高亮方案
+- [x] 2,文章代码高亮方案
 - [x] 3,文章列表方案
 - [ ] 4, 选择文字弹出评论框方案
 - [ ] 5, 评论框固定方案
@@ -188,7 +188,7 @@ This is a python code for showing how to update your desktop background image.
 #
 #  web1.py
 #  
-#  Copyright 2018 Evel <evel.evel@gmail.com>
+#  Copyright 2018 Evel
 
 import urllib.request
 from urllib.request import urlretrieve
