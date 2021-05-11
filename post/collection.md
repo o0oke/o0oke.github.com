@@ -6,16 +6,16 @@ Here's some notes of my linux usage collection
 1,搭建node服务器
 
 >[evel@evel-arch node]$ node server.js 
->Server running at http://127.0.0.1:8888/
+Server running at http://127.0.0.1:8888/
 
 2, 或者结合Apache和./ngrok http 80
 
 3, 本机服务器位置
 
 >网页目录：/srv/http/ 或者 /var/www/html
->systemctl start httpd
->systemctl stop httpd
->systemctl status httpd
+systemctl start httpd
+systemctl stop httpd
+systemctl status httpd
 
 <h3 id="n1.2">VNC服务器</h3>
 VNC from Win to Linux
@@ -142,10 +142,10 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 
 <h3 id="n1.14">自动登录</h3>
 
->autologin-guest=false
->autologin-user=evel
->autologin-user-timeout=0
->autologin-session=xfce
+    autologin-guest=false
+    autologin-user=evel
+    autologin-user-timeout=0
+    autologin-session=xfce
 
 <h3 id="n1.15">多屏幕共享方案</h3>
 Synergy
@@ -161,7 +161,8 @@ Synergy
 1, start record by 'asciinema rec' command and stop with 'Ctrl+D' or 'exit'
 2, Enter to upload to web automaticly. click and visit the return pages for review the whole progress. 
 
-<script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
+> <script id="asciicast-388896" src="https://asciinema.org/a/388896.js" async></script>
+<a href="asciinema.org/a/388896" target="_blank">asciicast-388896</a>
 
 <h3 id="n1.18">shell实例手册</h3>
 <a href="./post/upload/shell.txt" target="_blank">shell实例手册</a>
