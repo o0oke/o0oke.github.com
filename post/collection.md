@@ -1,9 +1,10 @@
-Here's some notes of my linux usage collection
+Here's some notes of linux practice collection
 
 <h2 id="n1">Linux</h2>
 
 <h3 id="n1.1">VNC服务器</h3>
 1,搭建node服务器
+
 * [evel@evel-arch node]$ node server.js 
 Server running at http://127.0.0.1:8888/
 
@@ -147,7 +148,6 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 <h3 id="n1.13">ogv转mp4视频加水印</h3>
 
 >ffmpeg -i Evel.ogv -vf "drawtext=fontfile=simhei.ttf: text='By Evel':x=10:y=10:fontsize=24:fontcolor=yellow:shadowy=2" -f mp4 demo2.mp4
-
 
 <h3 id="n1.14">自动登录</h3>
 
