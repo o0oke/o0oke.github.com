@@ -106,15 +106,15 @@ VIM：
 ```
 
 * 一般来说数字代码的意思：
-> 1：用户命令所有的用户都可以查阅并且会使用此手册的内容
-> 2：系统调用，查看系统提供的相关调用，一般是程序员使用
-> 3：库函数
-> 4：设备文件
-> 5：文件格式描述，通常是配置文件的帮助手册
-> 6：游戏
-> 7：其他杂项
-> 8：只能由root用户使用的管理命令和工具等
-> 9：其他
+** 1：用户命令所有的用户都可以查阅并且会使用此手册的内容
+** 2：系统调用，查看系统提供的相关调用，一般是程序员使用
+** 3：库函数
+** 4：设备文件
+** 5：文件格式描述，通常是配置文件的帮助手册
+** 6：游戏
+** 7：其他杂项
+** 8：只能由root用户使用的管理命令和工具等
+** 9：其他
 
 * info
 有超链接并且查询方法不一样
@@ -126,6 +126,7 @@ VIM：
 * linux内核需要和用户或者其他外界资源交互。所以会安装不同的shell，对用户而言，每建立一个用户。系统默认分配一个bash shell给他用于和内核交互.
 查询系统的shell：
 
+```
 cat /etc/shells
 sh和bash一个东西
 sh-4.4$ sh -help
@@ -138,6 +139,7 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 用法：	bash [GNU 长选项] [选项] ...
 	bash [GNU 长选项] [选项] 脚本文件 ...
+```
 
 <h3 id="n1.12">系统SHELL更换</h3>
 输入新的shell名字。临时更改shell
@@ -183,7 +185,7 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 <h3 id="n2.1">web进展</h3>
 
 - [x] 1,保证文章长度超过一定长度。确保点击后无缩小放大的情况
-- [ ] 2,文章代码高亮方案
+- [x] 2,文章代码高亮方案
 - [x] 3,文章列表方案
 - [ ] 4, 选择文字弹出评论框方案
 - [ ] 5, 评论框固定方案
@@ -202,7 +204,7 @@ This is a python code for showing how to update your desktop background image.
 #
 #  web1.py
 #  
-#  Copyright 2018 Evel <evel.evel@gmail.com>
+#  Copyright 2018 Evel
 
 import urllib.request
 from urllib.request import urlretrieve
