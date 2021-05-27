@@ -45,3 +45,6 @@
 <a href="./post/upload/MyChinesePainting.jpg" data-lightbox="Gallery" data-title="My traditional Chinese painting which by Meizu phone ">
 <i class="fa fa-paint-brush fa-border fa-5x fa-fw" aria-hidden="true" style="color:GoldenRod;"></i>
 </a>
+<a href="./post/upload/LotusFlower.jpg" data-lightbox="Gallery" data-title="Lotus Flow of Zhongshan Jinzhong lake park">
+<i class="fa fa-sun-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:LightPink;"></i>
+</a>
