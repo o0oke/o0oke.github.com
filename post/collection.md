@@ -2,7 +2,7 @@ Here's some notes of linux practice collection
 
 <h2 id="n1">Linux</h2>
 
-<h3 id="n1.1">VNC服务器</h3>
+<h3 id="n1.1">本机服务器搭建</h3>
 1,搭建node服务器
 
 * [evel@evel-arch node]$ node server.js 
