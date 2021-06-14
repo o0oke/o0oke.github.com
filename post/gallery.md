@@ -48,3 +48,6 @@
 <a href="./post/upload/LotusFlower.jpg" data-lightbox="Gallery" data-title="Lotus Flow of Zhongshan Jinzhong lake park">
 <i class="fa fa-sun-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:LightPink;"></i>
 </a>
+<a href="./post/upload/nightfall.jpg" data-lightbox="Gallery" data-title="One beautiful nightfall of 2021">
+<i class="fa fa-moon-o fa-border fa-5x fa-fw" aria-hidden="true" style="color:DarkSlateBlue;"></i>
+</a>
