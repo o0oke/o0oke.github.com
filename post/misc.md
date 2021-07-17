@@ -29,4 +29,4 @@ General speaking, it's a long story.
 * I begin to use MSN, Skype <i class="fa fa-skype" aria-hidden="true"></i> when I worked in Wistron from 2005-2009.
 * I start to use product of Google, like Gtalk, BUZZ, and later <i class="fa fa-google-plus"></i>, also facebook <i class="fa fa-facebook-official" aria-hidden="true" style="color:blue"></i>, twitter <i class="fa fa-twitter"></i>, whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>, telegram <i class="fa fa-telegram" aria-hidden="true"></i> when I worked in NV shenzhen, and keep my Google Voice number +1 5708800119 by now, maybe you can leave a message if you are abroad. Sure I can reveive the message freely by mail.
 * I have one <i class="fa fa-weibo" style="color:red"></i>, just called 'Evel' but I haven't used it for a long time since I using <i class="fa fa-weixin" style="color:green"></i>. :(
-* Yes, now I setup the website here and a messager which can receive any message from middle button of right side.
+* Yes, now I setup the website here for life records, sharing, and also a messager which can receive message from comment button.
