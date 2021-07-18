@@ -181,7 +181,14 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 ```
 <h3 id="n1.18">shell实例手册</h3>
 <a href="./post/upload/shell.txt" target="_blank">shell实例手册</a>
-	
+
+<h3 id="n1.19">Python架设服务器</h3>
+
+* 安装Python后，下载<a href="./post/upload/linuxidc.py" target="_blank">Python服务器</a>脚本。
+* 终端运行命令python linuxidc.py
+* 手机端运行http://192.168.1.x:8000 注意端口和机器IP的差异
+* 如需从服务器下载，则将文件放到脚本同一个目录下。如需从手机端上传，则访问后点击upload选中手机文件后上传即可。上传后文件将放到脚本同一个目录。
+
 <h2 id="n2">Web & Code</h2>
 
 <h3 id="n2.1">web进展</h3>

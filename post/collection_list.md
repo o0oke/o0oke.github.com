@@ -19,6 +19,7 @@
 &emsp;[1.16 比对文件彩色标记不同](#n1.16)<br>
 &emsp;[1.17 Linux录屏上传](#n1.17)<br>
 &emsp;[1.18 shell实例手册](#n1.18)<br>
+&emsp;[1.19 Python架设服务器](#n1.19)<br>
 [2.Web & Code](#n2)<br>
 &emsp;[2.1 web进展](#n2.1)<br>
 &emsp;[2.2 code](#n2.2)<br>
