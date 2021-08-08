@@ -17,7 +17,12 @@
         s.async = true;
         s.src = 'https://call.chatra.io/chatra.js';
         if (d.head) d.head.appendChild(s);
-      })(document, window, 'msg');
+      })(document, window, 'Chatra');
+      window.ChatraSetup = {
+          mode: 'frame',
+          /* id of the block you want to embed chat into */
+          injectTo: 'msg'
+      };
     </script>
 
   </head>
