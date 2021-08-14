@@ -278,9 +278,11 @@ if __name__ == '__main__':
     #deb-src deb https://mirrors.huaweicloud.com/deepin stable main
 
 替换了源之后,如果Kernel版本太高可能会导致部分软件的驱动无法安装.可以先安装稳定版本的Kernal
+
     sudo apt install linux-image-deepin-amd64 linux-headers-deepin-amd64
 
 安装stable内核的命令如下：
+
     sudo apt install linux-image-deepin-stable-amd64 linux-headers-deepin-stable-amd64
 
 <h3 id="n3.2">UOS删除Chrome</h3>
