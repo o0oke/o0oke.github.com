@@ -265,12 +265,28 @@ if __name__ == '__main__':
 
 <h2 id="n3">UOS</h2>
 
-<h3 id="n3.1">UOS过期咋办</h3>
+<h3 id="n3.1">UOS过期,激活,更新源</h3>
 
 如不想折腾只要将以下两个文件删除，即可去掉烦人的弹框提醒
 
->uos-activator-usrbin：/usr/bin
+    uos-activator-usrbin：/usr/bin
+    uos-license-agent：/usr/lib/deepin-daemon
 
->uos-license-agent：/usr/lib/deepin-daemon
+另外如果有应用商店可安装。直接替换源即可。更新文件/etc/apt/sources.list即可
 
-另外如果有应用商店可安装。直接替换源即可。
+    deb [trusted=yes] https://mirrors.huaweicloud.com/deepin stable main contrib non-free
+    #deb-src deb https://mirrors.huaweicloud.com/deepin stable main
+
+替换了源之后,如果Kernel版本太高可能会导致部分软件的驱动无法安装.可以先安装稳定版本的Kernal
+    sudo apt install linux-image-deepin-amd64 linux-headers-deepin-amd64
+
+安装stable内核的命令如下：
+    sudo apt install linux-image-deepin-stable-amd64 linux-headers-deepin-stable-amd64
+
+<h3 id="n3.2">UOS删除Chrome</h3>
+
+删除不干净有些Chrome功能无法恢复.可以用以下办法彻底删除后再安装.
+
+    sudo apt-get purge google-chrome-stable
+    sudo apt-get autoremove
+    sudo rm -rf ~/.config/google-chrome
