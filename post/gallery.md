@@ -1,3 +1,4 @@
+![image](https://img.t.sinajs.cn/t5/skin/public/profile_cover/010.jpg)
 <h2 id="g1">Life</h2>
 <h3 id="g1.1">Moment</h3>
 <a href="./post/upload/birthday.png" data-lightbox="Gallery" data-title="Birthday of 2020">
