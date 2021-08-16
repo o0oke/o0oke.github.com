@@ -205,6 +205,18 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 
 <h3 id="n2.2">Code</h3>
 
+HistoryEventofToday
+
+```
+<script>
+$.get('https://api.yum6.cn/briefing/baidu.php?format=json',
+     function(data) {
+    alert("HistoryEventofToday" + data.content );
+     });
+</script>
+
+```
+
 This is a python code for showing how to update your desktop background image.
 
 ```
