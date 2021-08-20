@@ -276,7 +276,7 @@ if __name__ == '__main__':
 ```
 
 <h3 id="n2.3">Github空间打不开</h3>
-host解析问题,会导致github page搭建的空间,或者VS递交更新失败, 可以访问[这里](https://www.ipaddress.com) 查询到host地址,然后添加到 /etc/hosts 后重启机器即可.格式如下:
+host解析问题,会导致github page搭建的空间,或者VS递交更新失败, 可以访问[这里](https://www.ipaddress.com) 查询到host地址,然后添加到 `/etc/hosts` 后重启机器即可.格式如下:
 
     xxx.xxx.xxx.xx evel.cn
     xxx.xxx.xxx.xx github.com
