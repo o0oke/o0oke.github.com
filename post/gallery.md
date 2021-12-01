@@ -35,6 +35,9 @@
 <a href="./post/upload/DT_manjaro_20180928_Evel.jpg" data-lightbox="Gallery" data-title="My Manjaro desktop">
 <i class="fa fa-terminal fa-border fa-5x fa-fw" aria-hidden="true" style="color:PowderBlue;"></i>
 </a>
+<a href="./post/upload/Deepin.png" data-lightbox="Gallery" data-title="My Deepin desktop">
+<i class="fa fa-linux fa-border fa-5x fa-fw" aria-hidden="true" style="color:Blue;"></i>
+</a>
 <h2 id="g2">Beautiful</h2>
 <h3 id="g2.1">Scenery</h3>
 <a href="./post/upload/afternoon.png" data-lightbox="Gallery" data-title="I love this afternoon">
