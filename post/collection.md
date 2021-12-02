@@ -205,6 +205,10 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 
 <h3 id="n2.2">Code</h3>
 
+Online debug tool
+
+<iframe src="https://www.it1352.com/Onlinetools/OnlineCompileCommon/18?c_height=100&r_height=100&code=&autoExecute=true" style="width:500px;height:450px;"></iframe>
+
 HistoryEventofToday
 
 ```
