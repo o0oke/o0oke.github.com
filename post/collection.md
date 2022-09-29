@@ -205,9 +205,17 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 
 <h3 id="n2.2">Code</h3>
 
-Online debug tool
+Music embedded code
 
-<iframe src="https://www.it1352.com/Onlinetools/OnlineCompileCommon/18?c_height=280&r_height=100&code=&autoExecute=true" style="width:680px;height:550px;"></iframe>
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="./upload/nxher.mp3">
+</audio>
+
+```
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="music path">
+</audio>
+```
 
 HistoryEventofToday
 
