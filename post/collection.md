@@ -205,11 +205,12 @@ GNU bash，版本 4.4.19(1)-release-(x86_64-unknown-linux-gnu)
 
 <h3 id="n2.2">Code</h3>
 
-Music embedded code
+Embedded Music
 
 <audio id="audio" controls="" preload="none">
-<source id="mp3" src="./upload/nxher.mp3">
+<source id="mp3" src="./post/upload/nxher.mp3">
 </audio>
+
 
 ```
 <audio id="audio" controls="" preload="none">
