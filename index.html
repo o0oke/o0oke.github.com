@@ -34,8 +34,11 @@
 			return response.text();
 		  })
 		  .then(html => {
+			const scriptTagRegex = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi;
+			const cleanedHtml = html.replace(scriptTagRegex, '');
+			
 			const parser = new DOMParser();
-			const doc = parser.parseFromString(html, 'text/html');
+			const doc = parser.parseFromString(cleanedHtml, 'text/html');
 
 			const elementsToRemove = doc.querySelectorAll('.booklist_footer');
 			elementsToRemove.forEach(el => el.parentNode.removeChild(el));
@@ -57,7 +60,7 @@
     </script>
   <p align="center">
     <small>
-       By <!--<a href="./blog" target="_blank">-->Evel<!--</a>-->◎2024 
+       Music & books shared By <!--<a href="./blog" target="_blank">-->Evel<!--</a>-->◎2024 
     </small>
   </p>
   </body>
