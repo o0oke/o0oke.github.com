@@ -26,12 +26,34 @@
   </div>
   <div id="embedded-content" class="wrapper"></div>
     <script>
-        fetch('https://weread.qq.com/misc/booklist/63637070_7RUASgXcs')
-            .then(response => response.text())
-            .then(html => {
-                document.getElementById('embedded-content').innerHTML = html;
-            })
-            .catch(error => console.error('Error:', error));
+		fetch('https://weread.qq.com/misc/booklist/63637070_7RUASgXcs')
+		  .then(response => {
+			if (!response.ok) {
+			  throw new Error('Network response was not ok');
+			}
+			return response.text();
+		  })
+		  .then(html => {
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(html, 'text/html');
+
+			const elementsToRemove = doc.querySelectorAll('.booklist_footer');
+			elementsToRemove.forEach(el => el.parentNode.removeChild(el));
+			const elementsToRemove2 = doc.querySelectorAll('.booklist_footer_button');
+			elementsToRemove2.forEach(el => el.parentNode.removeChild(el));
+
+			const elementsToUpdate = doc.querySelectorAll('.booklist_header');
+			elementsToUpdate.forEach(el => {
+			  el.textContent = ''; 
+			});
+
+			const processedHtml = doc.body.innerHTML;
+			document.getElementById('embedded-content').innerHTML = processedHtml;
+			//console.log(processedHtml);
+		  })
+		  .catch(error => {
+			console.error('There was a problem with the fetch operation:', error);
+		  });	
     </script>
   <p align="center">
     <small>
