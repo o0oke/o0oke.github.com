@@ -24,9 +24,15 @@
         listMaxHeight=500px
       </meting-js>
   </div>
-  <iframe src="https://weread.qq.com/misc/booklist/63637070_7RUASgXcs" width="661" height="400">
-    <p>Suggest use chrome or edge</p>
-  </iframe>
+  <div id="embedded-content" class="wrapper"></div>
+    <script>
+        fetch('https://weread.qq.com/misc/booklist/63637070_7RUASgXcs')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('embedded-content').innerHTML = html;
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
   <p align="center">
     <small>
        By <!--<a href="./blog" target="_blank">-->Evel<!--</a>-->◎2024 
